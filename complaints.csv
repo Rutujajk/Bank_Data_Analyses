@@ -1,0 +1,221 @@
+complaint_id,customer_id,complaint_date,category,priority,resolution_status,resolution_date
+1,22,2025-10-24,Service Quality,Low,Resolved,2025-10-30
+2,39,2025-01-20,KYC,High,Open,2025-02-03
+3,104,2025-03-02,KYC,Low,Open,2025-03-22
+4,11,2025-11-05,Card Issue,Medium,Resolved,
+5,67,2025-04-13,KYC,High,In Progress,2025-04-22
+6,16,2025-03-21,Card Issue,Medium,Resolved,2025-04-06
+7,25,2025-10-17,Account Access,High,Resolved,
+8,16,2025-07-15,Transaction Failure,Medium,Open,2025-07-18
+9,30,2025-09-11,Card Issue,Low,Open,2025-09-21
+10,35,2025-01-09,Loan Service,Medium,Resolved,2025-01-26
+11,23,2025-10-12,Loan Service,Low,Resolved,
+12,77,2025-08-24,Loan Service,Low,In Progress,
+13,55,2025-02-08,Account Access,Medium,Open,2025-02-21
+14,110,2025-05-31,Card Issue,High,Resolved,2025-06-03
+15,128,2025-01-20,Loan Service,High,In Progress,2025-02-02
+16,148,2025-03-04,Loan Service,Low,Resolved,2025-03-16
+17,13,2025-05-26,Transaction Failure,High,Resolved,
+18,85,2025-04-22,Transaction Failure,Medium,Resolved,2025-04-28
+19,18,2025-07-18,Account Access,High,Resolved,2025-07-24
+20,45,2025-06-15,Service Quality,High,Resolved,2025-06-18
+21,36,2025-01-02,Fraud Concern,Medium,Resolved,
+22,120,2025-02-03,KYC,High,Resolved,2025-02-20
+23,92,2025-09-27,Account Access,Medium,Resolved,2025-10-17
+24,15,2025-04-24,Transaction Failure,Medium,Resolved,
+25,88,2025-12-25,Account Access,Medium,Resolved,2026-01-07
+26,94,2025-04-17,Loan Service,High,Resolved,2025-04-23
+27,23,2025-08-18,Account Access,Low,Resolved,2025-08-30
+28,94,2025-07-27,Transaction Failure,Medium,Resolved,2025-07-28
+29,11,2025-12-06,Transaction Failure,Medium,In Progress,2025-12-15
+30,57,2025-02-26,Transaction Failure,Medium,Resolved,
+31,47,2025-08-04,Loan Service,Low,Open,2025-08-08
+32,1,2025-01-03,Fraud Concern,Medium,Resolved,2025-01-12
+33,125,2025-02-21,Card Issue,High,Resolved,2025-02-27
+34,129,2025-04-09,Fraud Concern,Low,Resolved,
+35,42,2025-12-04,Card Issue,Low,Resolved,2025-12-10
+36,40,2025-10-12,Loan Service,Low,Resolved,2025-10-17
+37,50,2025-09-27,Loan Service,High,Resolved,2025-09-28
+38,24,2025-05-20,Transaction Failure,High,Open,2025-06-09
+39,59,2025-03-01,Loan Service,Low,Open,
+40,8,2025-06-27,Service Quality,Medium,Resolved,
+41,38,2025-08-15,Card Issue,High,Resolved,2025-08-16
+42,75,2025-08-12,Transaction Failure,High,Open,2025-08-28
+43,11,2025-10-12,KYC,Medium,Resolved,2025-10-30
+44,19,2025-01-09,Transaction Failure,Medium,Resolved,2025-01-20
+45,78,2025-05-05,Transaction Failure,High,Resolved,
+46,25,2025-09-19,Fraud Concern,Medium,Resolved,2025-10-04
+47,33,2025-05-28,KYC,Low,Resolved,2025-06-15
+48,58,2025-11-09,Transaction Failure,Medium,Resolved,2025-11-27
+49,7,2025-11-25,Fraud Concern,Low,Resolved,2025-11-29
+50,38,2025-12-08,Transaction Failure,Low,Open,2025-12-23
+51,62,2025-05-09,Service Quality,High,Resolved,2025-05-20
+52,142,2025-06-19,Loan Service,Medium,In Progress,
+53,147,2025-10-31,Loan Service,High,Open,2025-11-09
+54,148,2025-04-06,Fraud Concern,Low,Open,2025-04-20
+55,13,2025-10-18,Fraud Concern,Medium,Resolved,2025-11-07
+56,110,2025-10-06,Transaction Failure,Medium,Resolved,2025-10-17
+57,118,2025-08-04,Card Issue,Low,Resolved,2025-08-19
+58,22,2025-01-23,Account Access,Medium,Resolved,2025-01-31
+59,144,2025-08-03,Transaction Failure,Medium,Resolved,2025-08-08
+60,57,2025-07-03,Fraud Concern,Low,Resolved,2025-07-16
+61,42,2025-11-12,Fraud Concern,High,Open,2025-11-22
+62,128,2025-08-24,Service Quality,Low,Resolved,
+63,137,2025-01-05,Loan Service,High,Resolved,
+64,45,2025-05-09,Card Issue,Medium,Resolved,
+65,21,2025-05-21,Account Access,High,Resolved,2025-06-01
+66,64,2025-06-25,Service Quality,Medium,Resolved,2025-07-06
+67,118,2025-06-11,Loan Service,High,In Progress,2025-06-27
+68,97,2025-10-16,Transaction Failure,Low,Resolved,2025-10-18
+69,55,2025-05-03,Card Issue,High,Resolved,
+70,75,2025-12-12,Loan Service,Low,In Progress,
+71,138,2025-06-14,Service Quality,Low,Resolved,2025-06-23
+72,36,2025-01-11,KYC,Medium,Resolved,
+73,24,2025-12-20,Account Access,Low,Resolved,2025-12-26
+74,36,2025-11-04,Service Quality,Low,Resolved,2025-11-19
+75,46,2025-10-05,Transaction Failure,Medium,Open,2025-10-18
+76,54,2025-07-15,Account Access,Low,Resolved,
+77,9,2025-07-01,Card Issue,Low,Open,2025-07-18
+78,78,2025-01-24,KYC,Medium,Resolved,2025-02-07
+79,150,2025-02-18,Transaction Failure,Low,Resolved,2025-02-25
+80,58,2025-07-11,Account Access,High,Resolved,2025-07-12
+81,6,2025-01-30,Card Issue,High,Resolved,2025-02-03
+82,38,2025-07-12,Card Issue,Medium,Resolved,
+83,127,2025-05-24,Transaction Failure,High,Open,2025-06-13
+84,1,2025-06-08,Fraud Concern,Medium,Resolved,2025-06-13
+85,1,2025-04-27,Loan Service,Medium,Open,
+86,60,2025-03-11,Transaction Failure,Medium,Resolved,2025-03-29
+87,73,2025-02-08,Loan Service,Medium,Resolved,
+88,114,2025-05-06,Transaction Failure,High,Resolved,2025-05-18
+89,27,2025-04-11,Transaction Failure,High,Resolved,2025-04-25
+90,110,2025-12-31,Loan Service,Low,Resolved,2026-01-14
+91,33,2025-02-04,Transaction Failure,High,Resolved,2025-02-15
+92,141,2025-09-02,Transaction Failure,Medium,Resolved,
+93,16,2025-11-16,Card Issue,Low,Resolved,2025-11-29
+94,141,2025-09-02,Fraud Concern,Medium,Resolved,2025-09-18
+95,110,2025-11-20,Card Issue,Medium,Resolved,2025-12-06
+96,139,2025-03-05,Loan Service,High,Resolved,
+97,133,2025-07-13,Fraud Concern,Medium,Resolved,2025-07-21
+98,22,2025-09-12,Transaction Failure,Medium,Open,2025-09-19
+99,11,2025-01-12,Transaction Failure,High,Resolved,
+100,146,2025-05-06,Service Quality,High,Resolved,2025-05-14
+101,19,2025-12-26,Card Issue,Low,Resolved,2026-01-12
+102,98,2025-07-14,KYC,Low,Resolved,2025-08-01
+103,27,2025-05-13,Account Access,High,Resolved,
+104,106,2025-09-12,Loan Service,High,Resolved,
+105,135,2025-04-18,Card Issue,Low,Resolved,
+106,8,2025-12-08,Service Quality,Medium,Open,2025-12-22
+107,75,2025-07-21,Card Issue,Medium,Resolved,
+108,95,2025-04-23,Transaction Failure,Low,Resolved,
+109,89,2025-06-11,Card Issue,Low,Resolved,
+110,101,2025-12-11,Loan Service,Medium,Resolved,
+111,136,2025-05-14,Account Access,High,Resolved,2025-05-20
+112,148,2025-05-23,Loan Service,High,Resolved,2025-06-02
+113,36,2025-07-28,Loan Service,Low,In Progress,2025-08-16
+114,84,2025-08-03,Account Access,High,In Progress,
+115,14,2025-03-15,Service Quality,Medium,Open,
+116,127,2025-08-02,Card Issue,High,In Progress,
+117,6,2025-12-26,KYC,Medium,Resolved,2026-01-04
+118,19,2025-03-12,Card Issue,High,Resolved,2025-03-24
+119,48,2025-01-03,Card Issue,Low,Resolved,2025-01-21
+120,2,2025-12-20,Loan Service,Medium,In Progress,
+121,36,2025-08-26,Loan Service,Low,In Progress,2025-08-28
+122,7,2025-08-23,Card Issue,Low,Resolved,2025-08-26
+123,116,2025-05-30,KYC,High,Open,
+124,63,2025-03-15,Card Issue,Medium,Resolved,
+125,15,2025-12-22,KYC,High,Open,2026-01-04
+126,103,2025-09-07,Service Quality,High,Resolved,2025-09-21
+127,57,2025-11-19,Fraud Concern,Low,Open,
+128,110,2025-09-24,Card Issue,Low,Resolved,
+129,7,2025-03-19,Service Quality,Low,In Progress,
+130,75,2025-09-23,KYC,Medium,Resolved,
+131,53,2025-10-06,Card Issue,Low,Resolved,2025-10-25
+132,6,2025-07-15,Service Quality,High,Resolved,
+133,104,2025-10-04,Account Access,High,Open,2025-10-11
+134,3,2025-07-15,Service Quality,Medium,Resolved,2025-07-25
+135,35,2025-08-11,Transaction Failure,High,In Progress,
+136,146,2025-05-24,Fraud Concern,Low,Resolved,2025-06-02
+137,95,2025-11-15,Service Quality,Low,In Progress,
+138,13,2025-07-11,Service Quality,High,In Progress,
+139,28,2025-02-09,Loan Service,Medium,Resolved,2025-02-26
+140,16,2025-12-20,KYC,Low,Resolved,2026-01-06
+141,10,2025-10-23,Loan Service,Medium,Resolved,2025-10-25
+142,62,2025-05-20,Transaction Failure,Medium,Resolved,
+143,20,2025-06-24,Fraud Concern,Low,Open,2025-06-28
+144,132,2025-05-21,Fraud Concern,Low,Resolved,2025-06-02
+145,13,2025-09-16,Card Issue,Low,Resolved,2025-09-29
+146,82,2025-09-22,Account Access,Medium,Resolved,2025-10-07
+147,68,2025-10-09,Transaction Failure,Low,In Progress,2025-10-14
+148,27,2025-08-25,Account Access,High,Resolved,2025-09-01
+149,27,2025-09-05,Account Access,Low,Resolved,2025-09-18
+150,133,2025-08-06,Account Access,Low,Resolved,2025-08-19
+151,92,2025-08-13,KYC,High,Open,2025-08-20
+152,106,2025-03-23,Transaction Failure,Medium,In Progress,
+153,86,2025-01-15,KYC,Low,Resolved,2025-02-02
+154,90,2025-02-04,Account Access,Medium,Resolved,2025-02-16
+155,94,2025-05-07,Card Issue,Low,Resolved,2025-05-24
+156,73,2025-03-25,Card Issue,Medium,Resolved,2025-04-09
+157,124,2025-12-25,Loan Service,High,Resolved,2026-01-12
+158,109,2025-05-18,Account Access,High,Resolved,
+159,52,2025-01-03,Transaction Failure,Low,Open,2025-01-09
+160,46,2025-08-25,Account Access,Medium,Resolved,2025-09-02
+161,82,2025-05-11,Transaction Failure,High,Resolved,
+162,43,2025-02-01,Loan Service,Low,In Progress,2025-02-11
+163,28,2025-08-07,Card Issue,Low,Open,2025-08-14
+164,138,2025-01-04,KYC,Medium,Resolved,
+165,117,2025-01-05,Service Quality,Low,Resolved,
+166,124,2025-03-27,Service Quality,Medium,Resolved,
+167,31,2025-03-01,Service Quality,High,Resolved,2025-03-17
+168,130,2025-12-01,Account Access,Low,Resolved,2025-12-02
+169,22,2025-08-15,Card Issue,Low,Resolved,2025-08-24
+170,50,2025-03-14,Loan Service,High,Resolved,2025-03-16
+171,124,2025-06-28,Service Quality,High,Resolved,
+172,110,2025-02-18,Transaction Failure,High,Resolved,2025-02-22
+173,94,2025-07-12,Fraud Concern,High,Resolved,
+174,117,2025-07-26,Account Access,Medium,Resolved,2025-08-08
+175,61,2025-09-26,Card Issue,Medium,Open,2025-10-16
+176,39,2025-07-07,Card Issue,Medium,In Progress,
+177,94,2025-07-14,Card Issue,Medium,Resolved,
+178,33,2025-04-04,Service Quality,Low,Resolved,
+179,4,2025-05-05,Account Access,Low,Resolved,2025-05-13
+180,13,2025-08-04,Service Quality,Low,Resolved,
+181,30,2025-10-28,Transaction Failure,Medium,Resolved,
+182,18,2025-01-23,Account Access,High,Open,2025-01-24
+183,130,2025-01-16,Transaction Failure,Low,Resolved,2025-01-23
+184,67,2025-12-09,Service Quality,Medium,In Progress,2025-12-27
+185,57,2025-04-15,Loan Service,Medium,Resolved,
+186,126,2025-07-03,Transaction Failure,High,Resolved,2025-07-16
+187,146,2025-08-30,Transaction Failure,Medium,Resolved,
+188,130,2025-12-30,Account Access,High,Resolved,2026-01-07
+189,6,2025-03-21,Card Issue,Low,In Progress,
+190,36,2025-12-21,Service Quality,High,Resolved,2026-01-07
+191,80,2025-03-14,Account Access,High,Resolved,
+192,43,2025-10-31,Fraud Concern,Medium,Resolved,2025-11-02
+193,37,2025-01-18,Transaction Failure,High,Resolved,2025-01-28
+194,97,2025-12-08,Service Quality,Low,Resolved,2025-12-26
+195,72,2025-06-23,Card Issue,Low,Resolved,2025-06-30
+196,51,2025-01-30,Card Issue,Medium,In Progress,
+197,98,2025-04-22,KYC,High,Open,
+198,23,2025-01-07,Transaction Failure,Low,Open,2025-01-24
+199,61,2025-11-01,Transaction Failure,High,Resolved,2025-11-02
+200,137,2025-06-08,Transaction Failure,Low,Resolved,
+201,86,2025-04-29,Fraud Concern,Medium,Resolved,2025-05-19
+202,13,2025-04-03,KYC,High,Resolved,
+203,57,2025-12-28,Fraud Concern,Medium,Resolved,2026-01-11
+204,44,2025-07-21,KYC,High,Resolved,
+205,36,2025-02-12,Card Issue,High,Resolved,2025-02-24
+206,78,2025-10-20,Service Quality,Medium,In Progress,
+207,1,2025-08-23,Service Quality,Medium,In Progress,2025-08-26
+208,90,2025-01-19,Fraud Concern,High,In Progress,2025-01-27
+209,111,2025-01-05,Account Access,Low,Resolved,2025-01-15
+210,25,2025-03-13,KYC,High,In Progress,
+211,109,2025-03-13,KYC,Low,Resolved,2025-03-25
+212,8,2025-11-28,Service Quality,High,Resolved,
+213,123,2025-08-07,Fraud Concern,Low,Resolved,2025-08-12
+214,136,2025-12-03,KYC,Low,Resolved,2025-12-21
+215,92,2025-09-27,Transaction Failure,Low,Open,2025-10-03
+216,103,2025-08-24,Card Issue,High,Resolved,2025-09-07
+217,132,2025-08-16,Service Quality,High,Resolved,2025-08-23
+218,102,2025-08-18,Transaction Failure,Medium,In Progress,2025-08-24
+219,138,2025-10-09,KYC,Low,Resolved,2025-10-17
+220,145,2025-06-12,KYC,Low,Resolved,2025-06-28

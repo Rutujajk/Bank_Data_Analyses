@@ -1,0 +1,2001 @@
+transaction_id,account_id,transaction_date,amount,transaction_type,channel,status,merchant_category
+1,152,2025-03-31,86952.6,Debit,UPI,Failed,Healthcare
+2,179,2025-08-02,2070.88,Credit,Branch,Completed,Travel
+3,207,2025-08-26,4577.97,Credit,Branch,Completed,Dining
+4,85,2025-11-28,441.4,Credit,Branch,Completed,Education
+5,173,2025-11-06,22472.41,Credit,Internet Banking,Completed,Dining
+6,86,2025-06-05,142144.97,Debit,ATM,Completed,Dining
+7,102,2025-05-03,2782.79,Debit,Branch,Completed,Cash
+8,128,2025-08-27,24626.37,Debit,Branch,Failed,Education
+9,12,2025-10-16,4327.22,Debit,Branch,Completed,Travel
+10,51,2025-06-18,1188.59,Debit,Branch,Failed,Transfer
+11,186,2025-11-25,3710.99,Debit,ATM,Completed,Cash
+12,165,2025-01-31,21781.37,Credit,Internet Banking,Completed,Travel
+13,216,2025-11-19,1195.6,Debit,POS,Completed,Transfer
+14,5,2025-01-04,13226.77,Debit,Mobile App,Completed,Cash
+15,209,2025-12-24,3386.46,Credit,ATM,Completed,Dining
+16,159,2025-09-27,1299.47,Debit,UPI,Pending,Dining
+17,179,2025-04-26,35077.11,Credit,Mobile App,Completed,Education
+18,98,2025-07-13,2785.87,Debit,POS,Completed,Healthcare
+19,145,2025-02-18,23383.04,Debit,Branch,Completed,Groceries
+20,20,2025-12-17,4631.64,Debit,Mobile App,Failed,Dining
+21,151,2025-03-15,3773.66,Credit,UPI,Completed,Education
+22,174,2025-10-04,42493.82,Debit,Mobile App,Completed,Utilities
+23,112,2025-04-29,121125.71,Debit,Mobile App,Completed,Shopping
+24,201,2025-08-19,2478.49,Debit,Mobile App,Completed,Shopping
+25,205,2025-05-07,6640.76,Debit,Branch,Completed,Healthcare
+26,28,2025-02-16,75.72,Credit,Internet Banking,Completed,Transfer
+27,143,2025-10-12,2586.58,Debit,Internet Banking,Completed,Groceries
+28,75,2025-07-31,6693.99,Credit,POS,Pending,Education
+29,44,2025-03-13,1381.15,Debit,Internet Banking,Completed,Utilities
+30,93,2025-05-09,4723.9,Credit,Branch,Completed,Groceries
+31,102,2025-06-20,4215.99,Credit,Branch,Completed,Healthcare
+32,155,2025-12-22,145571.83,Debit,UPI,Completed,Dining
+33,84,2025-07-12,20717.33,Credit,POS,Completed,Cash
+34,7,2025-08-25,9192.97,Debit,POS,Completed,Transfer
+35,36,2025-11-21,1549.02,Debit,UPI,Completed,Transfer
+36,150,2025-07-25,2695.12,Debit,POS,Completed,Cash
+37,153,2025-11-23,4576.29,Credit,UPI,Completed,Education
+38,193,2025-06-19,4830.3,Credit,Internet Banking,Completed,Healthcare
+39,101,2025-08-26,3873.09,Credit,Branch,Completed,Education
+40,22,2025-03-01,4165.02,Debit,Branch,Completed,Transfer
+41,25,2025-08-13,3623.87,Credit,Branch,Completed,Utilities
+42,174,2025-03-26,4653.12,Debit,Internet Banking,Completed,Dining
+43,205,2025-07-27,3167.31,Credit,Internet Banking,Completed,Education
+44,100,2025-01-03,9115.69,Credit,UPI,Completed,Travel
+45,94,2025-06-16,1025.52,Debit,UPI,Pending,Education
+46,157,2025-07-20,2955.67,Debit,UPI,Completed,Utilities
+47,173,2025-03-10,1600.27,Debit,Internet Banking,Completed,Travel
+48,148,2025-07-16,14733.4,Credit,UPI,Failed,Travel
+49,126,2025-05-28,744.47,Credit,Internet Banking,Completed,Travel
+50,50,2025-07-16,4820.95,Debit,Internet Banking,Completed,Travel
+51,22,2025-10-17,202.76,Credit,Internet Banking,Completed,Transfer
+52,141,2025-09-19,7284.13,Credit,POS,Completed,Transfer
+53,140,2025-04-22,7048.33,Credit,Internet Banking,Completed,Shopping
+54,90,2025-02-14,2223.4,Debit,POS,Completed,Education
+55,43,2025-11-12,739.21,Debit,UPI,Completed,Cash
+56,44,2025-06-15,96591.95,Credit,ATM,Completed,Education
+57,16,2025-05-22,4341.89,Credit,POS,Completed,Education
+58,126,2025-03-14,2908.26,Credit,Internet Banking,Completed,Cash
+59,192,2025-05-23,3488.78,Credit,POS,Completed,Transfer
+60,163,2025-12-07,3501.58,Credit,Internet Banking,Pending,Shopping
+61,83,2025-05-26,1721.89,Credit,Mobile App,Completed,Utilities
+62,161,2025-08-24,130.59,Debit,ATM,Reversed,Travel
+63,167,2025-06-04,836.94,Debit,POS,Completed,Travel
+64,14,2025-07-22,3146.74,Credit,Mobile App,Completed,Dining
+65,123,2025-02-09,706.86,Credit,Internet Banking,Completed,Travel
+66,123,2025-02-06,1183.29,Debit,ATM,Completed,Education
+67,199,2025-03-10,3225.8,Credit,Internet Banking,Completed,Healthcare
+68,185,2025-04-20,3159.0,Credit,Mobile App,Completed,Travel
+69,193,2025-03-05,2968.39,Debit,POS,Completed,Utilities
+70,64,2025-10-11,60615.1,Debit,ATM,Completed,Cash
+71,156,2025-09-18,12835.02,Credit,Internet Banking,Completed,Education
+72,29,2025-05-04,91035.81,Debit,ATM,Reversed,Education
+73,215,2025-10-19,2133.27,Credit,Mobile App,Reversed,Utilities
+74,4,2025-05-15,1117.93,Debit,Internet Banking,Completed,Education
+75,22,2025-11-24,2706.0,Credit,ATM,Completed,Cash
+76,84,2025-07-20,2952.86,Debit,POS,Completed,Dining
+77,15,2025-05-06,476.75,Credit,Mobile App,Completed,Groceries
+78,182,2025-03-12,3522.42,Debit,ATM,Completed,Healthcare
+79,33,2025-05-18,3678.03,Credit,Branch,Completed,Utilities
+80,128,2025-08-22,2578.37,Credit,UPI,Completed,Utilities
+81,59,2025-09-18,62.71,Credit,ATM,Completed,Groceries
+82,142,2025-12-02,11436.04,Credit,UPI,Completed,Healthcare
+83,31,2025-09-15,3382.96,Debit,Mobile App,Completed,Transfer
+84,73,2025-06-09,1670.14,Debit,POS,Completed,Dining
+85,119,2025-07-08,2978.87,Credit,ATM,Completed,Groceries
+86,105,2025-01-13,11928.47,Credit,POS,Failed,Education
+87,218,2025-06-07,564.55,Credit,POS,Completed,Shopping
+88,24,2025-01-23,22945.75,Credit,UPI,Completed,Utilities
+89,130,2025-03-10,3204.22,Credit,ATM,Completed,Shopping
+90,67,2025-06-11,4633.91,Credit,Mobile App,Completed,Dining
+91,35,2025-10-27,589.42,Debit,ATM,Completed,Transfer
+92,79,2025-08-26,1361.79,Credit,ATM,Completed,Healthcare
+93,38,2025-02-16,3570.23,Credit,Mobile App,Completed,Education
+94,219,2025-08-20,2801.97,Credit,Mobile App,Completed,Groceries
+95,213,2025-04-24,697.04,Debit,Mobile App,Completed,Groceries
+96,17,2025-04-12,13868.63,Debit,Mobile App,Completed,Groceries
+97,119,2025-01-26,881.55,Debit,ATM,Completed,Healthcare
+98,55,2025-04-06,1411.16,Debit,Internet Banking,Completed,Education
+99,141,2025-09-03,351.85,Credit,POS,Completed,Cash
+100,204,2025-01-10,4947.55,Debit,Internet Banking,Completed,Shopping
+101,47,2025-01-14,9380.4,Debit,UPI,Completed,Healthcare
+102,197,2025-10-27,4998.05,Credit,ATM,Completed,Education
+103,91,2025-03-30,921.7,Credit,POS,Failed,Healthcare
+104,146,2025-10-16,23967.37,Debit,ATM,Pending,Transfer
+105,10,2025-02-16,328.03,Credit,ATM,Completed,Healthcare
+106,184,2025-04-01,4597.96,Credit,Mobile App,Completed,Cash
+107,94,2025-02-07,1899.27,Credit,ATM,Completed,Education
+108,203,2025-11-24,46775.33,Debit,ATM,Completed,Travel
+109,97,2025-06-07,3683.28,Debit,UPI,Completed,Groceries
+110,47,2025-11-05,1625.17,Debit,ATM,Completed,Healthcare
+111,191,2025-02-09,24647.59,Debit,Internet Banking,Completed,Groceries
+112,68,2025-04-18,1285.23,Debit,Internet Banking,Completed,Education
+113,43,2025-07-31,2490.76,Credit,ATM,Completed,Transfer
+114,19,2025-01-18,1509.8,Debit,ATM,Completed,Utilities
+115,141,2025-02-17,24705.52,Credit,UPI,Completed,Education
+116,41,2025-01-28,551.23,Debit,POS,Completed,Shopping
+117,77,2025-05-02,524.78,Credit,Internet Banking,Completed,Utilities
+118,76,2025-12-05,3144.2,Credit,Internet Banking,Completed,Utilities
+119,79,2025-07-23,2381.18,Debit,Internet Banking,Completed,Healthcare
+120,48,2025-08-17,13794.81,Credit,POS,Completed,Utilities
+121,22,2025-12-09,1751.77,Debit,UPI,Completed,Education
+122,138,2025-12-18,4341.13,Credit,UPI,Completed,Cash
+123,205,2025-10-20,17405.46,Credit,ATM,Completed,Dining
+124,33,2025-01-22,79424.16,Debit,Branch,Completed,Utilities
+125,23,2025-07-18,2804.0,Credit,POS,Failed,Cash
+126,201,2025-08-03,606.97,Credit,Mobile App,Pending,Utilities
+127,202,2025-05-27,4344.0,Debit,Mobile App,Completed,Travel
+128,71,2025-07-26,762.07,Debit,POS,Completed,Dining
+129,13,2025-09-01,22940.63,Debit,Internet Banking,Completed,Utilities
+130,59,2025-03-10,1537.38,Credit,ATM,Completed,Transfer
+131,55,2025-07-28,20189.87,Credit,Mobile App,Completed,Shopping
+132,182,2025-09-17,2046.76,Credit,Mobile App,Completed,Dining
+133,9,2025-08-22,300.27,Debit,POS,Completed,Utilities
+134,175,2025-01-16,80762.93,Debit,Branch,Completed,Travel
+135,215,2025-05-13,3757.36,Credit,ATM,Completed,Dining
+136,174,2025-04-16,13190.14,Credit,Internet Banking,Completed,Travel
+137,166,2025-03-30,5169.27,Debit,Internet Banking,Completed,Education
+138,219,2025-06-28,2322.04,Credit,Mobile App,Completed,Cash
+139,170,2025-07-11,2829.21,Debit,Branch,Completed,Healthcare
+140,71,2025-05-14,3297.79,Credit,Mobile App,Completed,Education
+141,170,2025-06-13,106925.07,Debit,Internet Banking,Completed,Education
+142,189,2025-01-19,2935.97,Debit,POS,Completed,Healthcare
+143,130,2025-06-03,4234.83,Credit,POS,Completed,Shopping
+144,186,2025-10-14,3826.45,Debit,ATM,Completed,Shopping
+145,108,2025-06-19,1889.83,Credit,Internet Banking,Completed,Dining
+146,129,2025-03-03,4344.11,Credit,ATM,Completed,Healthcare
+147,105,2025-10-19,24732.99,Credit,Internet Banking,Completed,Healthcare
+148,162,2025-04-01,1601.4,Credit,Internet Banking,Completed,Utilities
+149,34,2025-11-11,2196.87,Credit,POS,Completed,Healthcare
+150,4,2025-06-14,3796.4,Credit,POS,Completed,Healthcare
+151,80,2025-03-08,558.41,Debit,Internet Banking,Completed,Cash
+152,153,2025-09-26,1722.28,Debit,ATM,Completed,Travel
+153,208,2025-07-26,144.67,Credit,Mobile App,Completed,Healthcare
+154,183,2025-11-30,12503.85,Credit,POS,Completed,Utilities
+155,168,2025-01-11,288.76,Credit,ATM,Completed,Groceries
+156,78,2025-08-04,3325.24,Credit,UPI,Completed,Utilities
+157,73,2025-02-28,14954.78,Credit,Branch,Completed,Education
+158,76,2025-03-24,14927.09,Credit,Mobile App,Completed,Utilities
+159,29,2025-10-21,3361.66,Credit,Branch,Completed,Dining
+160,117,2025-06-01,6001.6,Debit,POS,Completed,Healthcare
+161,110,2025-03-01,20164.08,Credit,Branch,Completed,Healthcare
+162,113,2025-11-15,1378.13,Debit,Internet Banking,Completed,Shopping
+163,214,2025-07-17,14564.9,Credit,POS,Completed,Groceries
+164,217,2025-03-23,563.38,Debit,Branch,Completed,Groceries
+165,176,2025-03-08,2441.24,Debit,Mobile App,Completed,Cash
+166,197,2025-10-23,9479.7,Credit,Internet Banking,Completed,Dining
+167,124,2025-06-27,17828.09,Credit,Mobile App,Completed,Travel
+168,130,2025-08-29,4266.76,Debit,Mobile App,Completed,Cash
+169,58,2025-10-09,3234.42,Debit,Mobile App,Completed,Transfer
+170,115,2025-06-11,637.6,Credit,Mobile App,Completed,Shopping
+171,131,2025-10-15,1073.91,Credit,Internet Banking,Completed,Healthcare
+172,144,2025-11-14,3019.76,Credit,Mobile App,Completed,Healthcare
+173,91,2025-11-21,10839.67,Credit,Internet Banking,Completed,Travel
+174,211,2025-07-29,17217.04,Debit,ATM,Completed,Healthcare
+175,28,2025-08-01,280.18,Debit,POS,Completed,Cash
+176,35,2025-09-13,71.47,Credit,POS,Completed,Travel
+177,188,2025-03-07,562.59,Debit,UPI,Completed,Dining
+178,71,2025-07-23,4819.79,Debit,POS,Completed,Cash
+179,81,2025-12-31,3697.25,Debit,POS,Completed,Travel
+180,182,2025-11-29,4877.14,Debit,UPI,Completed,Transfer
+181,150,2025-10-20,19202.47,Debit,Mobile App,Completed,Cash
+182,28,2025-01-13,1935.31,Debit,POS,Completed,Shopping
+183,38,2025-02-01,3468.44,Credit,UPI,Completed,Cash
+184,58,2025-11-28,9751.91,Credit,Internet Banking,Completed,Education
+185,107,2025-12-17,1597.64,Debit,ATM,Completed,Healthcare
+186,194,2025-10-29,122018.34,Credit,POS,Completed,Utilities
+187,48,2025-03-30,3688.64,Credit,UPI,Completed,Shopping
+188,2,2025-06-19,23749.89,Debit,Internet Banking,Completed,Cash
+189,92,2025-02-07,3930.96,Credit,Internet Banking,Completed,Cash
+190,138,2025-07-26,505.13,Credit,UPI,Completed,Cash
+191,122,2025-10-15,4127.26,Credit,Mobile App,Completed,Healthcare
+192,98,2025-02-28,15804.75,Debit,UPI,Completed,Cash
+193,115,2025-09-07,267.07,Credit,UPI,Failed,Cash
+194,2,2025-11-17,18406.7,Credit,ATM,Completed,Cash
+195,213,2025-12-26,19827.5,Credit,Mobile App,Completed,Transfer
+196,184,2025-06-19,237.54,Credit,Branch,Completed,Education
+197,100,2025-08-19,3169.58,Credit,POS,Completed,Groceries
+198,180,2025-02-07,1820.62,Debit,Internet Banking,Completed,Education
+199,102,2025-12-05,8126.47,Debit,POS,Completed,Travel
+200,77,2025-12-13,4440.54,Credit,UPI,Pending,Cash
+201,37,2025-03-05,256.78,Credit,POS,Completed,Healthcare
+202,55,2025-07-31,4532.86,Debit,ATM,Completed,Utilities
+203,47,2025-12-10,22045.02,Debit,POS,Reversed,Cash
+204,19,2025-05-29,3374.84,Debit,ATM,Failed,Dining
+205,26,2025-05-26,3116.6,Debit,POS,Completed,Travel
+206,145,2025-10-18,1854.24,Credit,POS,Completed,Education
+207,71,2025-07-04,714.81,Debit,Internet Banking,Completed,Cash
+208,28,2025-03-31,6639.47,Credit,Branch,Completed,Utilities
+209,187,2025-02-08,21991.75,Credit,Mobile App,Completed,Cash
+210,67,2025-10-06,4475.23,Debit,ATM,Completed,Transfer
+211,129,2025-09-19,498.24,Credit,UPI,Pending,Travel
+212,115,2025-03-23,107426.66,Debit,Branch,Completed,Groceries
+213,57,2025-09-07,1197.16,Debit,Internet Banking,Completed,Transfer
+214,117,2025-01-24,37903.13,Debit,POS,Completed,Shopping
+215,149,2025-10-06,2872.29,Credit,UPI,Completed,Shopping
+216,97,2025-04-25,2606.04,Credit,UPI,Completed,Travel
+217,113,2025-03-26,1188.45,Credit,POS,Completed,Dining
+218,107,2025-06-19,3615.27,Debit,Mobile App,Completed,Dining
+219,12,2025-03-07,2888.76,Credit,ATM,Completed,Shopping
+220,47,2025-09-22,4793.28,Debit,Mobile App,Completed,Dining
+221,115,2025-11-07,22346.05,Credit,UPI,Completed,Cash
+222,68,2025-03-27,3634.72,Debit,ATM,Completed,Utilities
+223,5,2025-04-14,23186.78,Credit,Internet Banking,Completed,Groceries
+224,201,2025-09-30,2541.48,Credit,POS,Completed,Education
+225,134,2025-08-04,1883.37,Debit,Branch,Completed,Utilities
+226,109,2025-03-10,1309.86,Debit,Branch,Completed,Dining
+227,2,2025-12-30,3731.05,Credit,POS,Completed,Healthcare
+228,105,2025-07-05,577.59,Debit,UPI,Completed,Shopping
+229,175,2025-07-23,3787.11,Debit,Branch,Completed,Shopping
+230,148,2025-06-26,12962.6,Credit,Internet Banking,Completed,Travel
+231,26,2025-04-20,2566.3,Credit,ATM,Completed,Education
+232,163,2025-01-03,4031.63,Debit,ATM,Completed,Healthcare
+233,21,2025-11-08,236.89,Credit,ATM,Completed,Transfer
+234,113,2025-01-06,1048.45,Credit,UPI,Completed,Travel
+235,173,2025-01-19,1830.71,Debit,Branch,Completed,Education
+236,104,2025-10-28,5307.33,Debit,Branch,Completed,Shopping
+237,58,2025-11-07,4817.13,Credit,UPI,Completed,Utilities
+238,129,2025-05-31,1732.83,Debit,POS,Completed,Transfer
+239,97,2025-10-16,9865.47,Credit,Internet Banking,Completed,Utilities
+240,67,2025-02-04,20773.12,Debit,Branch,Completed,Cash
+241,138,2025-01-05,3519.05,Debit,Mobile App,Completed,Cash
+242,46,2025-09-01,1603.67,Credit,Internet Banking,Completed,Dining
+243,61,2025-05-04,4370.08,Credit,Mobile App,Completed,Utilities
+244,21,2025-12-13,14853.3,Debit,Branch,Pending,Healthcare
+245,127,2025-10-22,14816.11,Credit,UPI,Completed,Travel
+246,14,2025-09-27,4006.39,Credit,Internet Banking,Completed,Utilities
+247,179,2025-09-23,2327.35,Debit,Branch,Completed,Shopping
+248,48,2025-10-08,1351.1,Debit,ATM,Completed,Education
+249,180,2025-07-10,1857.14,Credit,Mobile App,Pending,Shopping
+250,206,2025-05-01,22126.17,Debit,Mobile App,Completed,Travel
+251,108,2025-09-13,715.63,Debit,Branch,Completed,Shopping
+252,144,2025-10-18,286.16,Credit,Internet Banking,Completed,Healthcare
+253,67,2025-07-04,1833.52,Debit,POS,Completed,Dining
+254,148,2025-10-22,3266.83,Debit,POS,Completed,Transfer
+255,21,2025-07-15,14275.04,Debit,Internet Banking,Completed,Education
+256,218,2025-02-06,441.6,Debit,Branch,Completed,Transfer
+257,200,2025-07-05,3752.08,Credit,POS,Completed,Dining
+258,170,2025-05-09,4705.16,Credit,Internet Banking,Completed,Cash
+259,14,2025-01-14,3866.12,Credit,POS,Completed,Education
+260,80,2025-04-28,1274.61,Credit,Mobile App,Completed,Healthcare
+261,84,2025-09-01,2362.61,Credit,UPI,Completed,Transfer
+262,162,2025-11-22,4392.6,Debit,UPI,Completed,Dining
+263,207,2025-02-15,2237.21,Credit,Branch,Completed,Shopping
+264,121,2025-10-01,91.17,Debit,Branch,Completed,Dining
+265,204,2025-01-04,2763.65,Debit,Internet Banking,Completed,Dining
+266,68,2025-02-10,9791.24,Debit,Branch,Completed,Cash
+267,208,2025-05-18,2093.87,Debit,Branch,Completed,Transfer
+268,49,2025-06-14,146.01,Debit,ATM,Completed,Transfer
+269,187,2025-01-05,1202.41,Debit,Branch,Completed,Transfer
+270,179,2025-01-17,1684.73,Credit,UPI,Completed,Transfer
+271,47,2025-04-09,4483.71,Credit,Internet Banking,Pending,Transfer
+272,64,2025-01-18,1035.94,Debit,POS,Completed,Shopping
+273,83,2025-03-23,3164.36,Debit,ATM,Completed,Healthcare
+274,14,2025-12-08,1128.05,Debit,UPI,Completed,Utilities
+275,102,2025-05-05,94.2,Debit,Mobile App,Completed,Dining
+276,41,2025-09-13,141356.1,Credit,Branch,Completed,Travel
+277,180,2025-10-02,54084.33,Debit,Internet Banking,Completed,Dining
+278,6,2025-12-19,1919.96,Debit,UPI,Completed,Transfer
+279,49,2025-10-18,973.8,Credit,Mobile App,Completed,Cash
+280,40,2025-08-19,1513.58,Debit,POS,Completed,Travel
+281,5,2025-11-14,20520.33,Debit,ATM,Completed,Cash
+282,175,2025-09-12,3840.38,Credit,UPI,Completed,Utilities
+283,12,2025-03-08,934.26,Debit,POS,Completed,Transfer
+284,135,2025-11-16,3521.5,Credit,POS,Completed,Transfer
+285,214,2025-02-10,17778.33,Debit,POS,Completed,Groceries
+286,211,2025-11-12,1365.79,Credit,Mobile App,Failed,Dining
+287,137,2025-07-17,987.83,Debit,POS,Completed,Utilities
+288,197,2025-11-23,2903.99,Credit,UPI,Completed,Education
+289,130,2025-06-22,15678.01,Debit,Branch,Completed,Education
+290,196,2025-11-21,2181.41,Debit,Branch,Completed,Transfer
+291,115,2025-07-23,50.97,Debit,Mobile App,Completed,Shopping
+292,57,2025-04-20,4285.82,Credit,Mobile App,Completed,Groceries
+293,118,2025-07-02,822.73,Debit,Mobile App,Completed,Education
+294,146,2025-04-22,3684.62,Credit,UPI,Completed,Shopping
+295,10,2025-10-23,1938.65,Debit,Internet Banking,Completed,Utilities
+296,198,2025-04-27,3751.01,Credit,Branch,Completed,Cash
+297,11,2025-06-13,2722.65,Debit,Internet Banking,Completed,Cash
+298,24,2025-04-24,2188.08,Credit,UPI,Completed,Education
+299,68,2025-02-13,13689.82,Credit,Internet Banking,Completed,Education
+300,167,2025-10-20,1020.69,Debit,Branch,Completed,Utilities
+301,29,2025-12-10,2097.23,Debit,ATM,Completed,Healthcare
+302,158,2025-08-15,3134.75,Credit,POS,Completed,Utilities
+303,29,2025-01-28,17420.05,Debit,POS,Completed,Utilities
+304,79,2025-08-19,2382.39,Debit,UPI,Completed,Transfer
+305,160,2025-03-14,18365.21,Debit,ATM,Completed,Groceries
+306,73,2025-04-13,3956.48,Debit,POS,Completed,Shopping
+307,170,2025-12-04,7157.83,Debit,UPI,Completed,Utilities
+308,81,2025-09-06,4340.53,Credit,Mobile App,Completed,Dining
+309,136,2025-06-06,1701.17,Debit,ATM,Completed,Cash
+310,71,2025-02-01,22573.55,Debit,ATM,Completed,Travel
+311,88,2025-07-21,72775.89,Credit,Internet Banking,Completed,Dining
+312,147,2025-03-20,2161.0,Credit,UPI,Completed,Cash
+313,176,2025-04-14,4319.81,Credit,POS,Completed,Travel
+314,82,2025-02-04,2808.83,Credit,Branch,Completed,Education
+315,106,2025-06-05,23675.37,Credit,Mobile App,Completed,Travel
+316,48,2025-01-14,3824.12,Credit,ATM,Completed,Groceries
+317,92,2025-02-10,3456.3,Debit,ATM,Completed,Education
+318,126,2025-08-31,8865.2,Debit,Internet Banking,Completed,Dining
+319,191,2025-12-10,20155.53,Debit,POS,Reversed,Healthcare
+320,118,2025-05-07,20524.29,Debit,UPI,Completed,Cash
+321,135,2025-11-25,4385.13,Credit,ATM,Completed,Cash
+322,138,2025-07-22,5785.03,Credit,Branch,Pending,Transfer
+323,102,2025-06-05,3879.7,Credit,Internet Banking,Failed,Transfer
+324,24,2025-09-14,610.2,Debit,Branch,Completed,Transfer
+325,7,2025-04-02,22932.35,Debit,POS,Completed,Travel
+326,184,2025-03-05,501.4,Credit,Internet Banking,Completed,Cash
+327,98,2025-01-23,3852.89,Credit,ATM,Completed,Groceries
+328,108,2025-06-07,1582.12,Credit,ATM,Completed,Groceries
+329,160,2025-05-10,14952.55,Debit,ATM,Completed,Dining
+330,151,2025-12-04,2404.77,Debit,UPI,Completed,Cash
+331,210,2025-04-17,292.15,Debit,Branch,Completed,Utilities
+332,13,2025-02-25,2113.94,Credit,Internet Banking,Completed,Healthcare
+333,10,2025-02-17,11456.44,Credit,Branch,Completed,Transfer
+334,35,2025-03-04,3488.37,Credit,Mobile App,Completed,Cash
+335,23,2025-09-05,17095.56,Debit,Branch,Completed,Cash
+336,148,2025-11-16,1801.57,Debit,ATM,Completed,Dining
+337,182,2025-05-29,4897.33,Credit,UPI,Completed,Education
+338,106,2025-01-24,1702.27,Debit,Branch,Completed,Utilities
+339,79,2025-06-03,2558.11,Credit,ATM,Completed,Dining
+340,85,2025-06-23,4615.28,Credit,POS,Completed,Transfer
+341,138,2025-06-21,2339.23,Debit,UPI,Completed,Cash
+342,5,2025-04-17,11634.39,Credit,Branch,Completed,Groceries
+343,87,2025-07-12,3151.23,Debit,POS,Completed,Healthcare
+344,182,2025-01-17,1393.91,Debit,ATM,Completed,Cash
+345,78,2025-03-31,20698.88,Credit,Internet Banking,Completed,Cash
+346,40,2025-04-08,1733.57,Credit,UPI,Completed,Travel
+347,53,2025-01-19,2323.87,Credit,Branch,Failed,Transfer
+348,12,2025-02-22,2626.86,Credit,Branch,Completed,Dining
+349,50,2025-05-27,1419.42,Debit,Mobile App,Completed,Groceries
+350,160,2025-10-14,2594.6,Debit,UPI,Completed,Dining
+351,44,2025-02-06,1591.32,Credit,Mobile App,Completed,Education
+352,14,2025-02-14,2161.01,Debit,UPI,Completed,Healthcare
+353,80,2025-06-20,4096.34,Debit,UPI,Pending,Travel
+354,24,2025-12-24,14111.68,Credit,ATM,Completed,Travel
+355,158,2025-05-13,4568.66,Debit,Internet Banking,Completed,Transfer
+356,8,2025-02-03,2402.91,Credit,UPI,Completed,Utilities
+357,104,2025-02-24,1663.06,Debit,ATM,Completed,Dining
+358,141,2025-03-23,12676.33,Debit,UPI,Completed,Healthcare
+359,140,2025-12-22,18252.25,Debit,Mobile App,Completed,Transfer
+360,84,2025-10-12,533.39,Debit,Branch,Completed,Transfer
+361,166,2025-12-05,354.34,Credit,ATM,Completed,Travel
+362,116,2025-09-30,1492.94,Debit,UPI,Completed,Shopping
+363,112,2025-06-26,4951.93,Debit,Mobile App,Completed,Healthcare
+364,141,2025-01-28,54.17,Credit,ATM,Completed,Education
+365,180,2025-10-30,2001.63,Credit,Internet Banking,Completed,Travel
+366,49,2025-10-12,1953.75,Credit,ATM,Reversed,Groceries
+367,19,2025-11-28,127.75,Credit,ATM,Reversed,Education
+368,117,2025-12-23,3041.93,Debit,Internet Banking,Completed,Healthcare
+369,58,2025-04-06,5148.6,Debit,Internet Banking,Completed,Cash
+370,148,2025-07-07,215.64,Credit,ATM,Completed,Cash
+371,193,2025-05-24,2351.43,Credit,POS,Completed,Cash
+372,205,2025-10-24,6055.49,Debit,UPI,Completed,Healthcare
+373,108,2025-06-30,4804.88,Debit,POS,Failed,Shopping
+374,16,2025-11-19,31452.49,Credit,Branch,Completed,Transfer
+375,22,2025-03-06,2552.7,Debit,Mobile App,Completed,Utilities
+376,155,2025-03-31,4555.15,Credit,Internet Banking,Completed,Travel
+377,205,2025-09-28,4316.97,Credit,Internet Banking,Failed,Education
+378,198,2025-07-16,1227.84,Debit,Mobile App,Completed,Shopping
+379,194,2025-03-01,309.99,Credit,Internet Banking,Failed,Education
+380,122,2025-05-15,22405.55,Debit,UPI,Completed,Groceries
+381,25,2025-09-30,24123.67,Debit,Branch,Completed,Shopping
+382,206,2025-02-20,1313.95,Credit,UPI,Completed,Healthcare
+383,174,2025-12-20,4966.41,Debit,Mobile App,Completed,Cash
+384,27,2025-12-17,2257.41,Credit,Mobile App,Completed,Dining
+385,154,2025-11-23,652.86,Credit,Mobile App,Completed,Travel
+386,65,2025-05-31,23723.64,Debit,POS,Completed,Healthcare
+387,66,2025-03-24,3914.62,Debit,Branch,Reversed,Travel
+388,113,2025-02-05,2484.02,Credit,UPI,Completed,Education
+389,56,2025-11-11,3234.52,Debit,Internet Banking,Completed,Groceries
+390,128,2025-03-18,3281.68,Debit,Internet Banking,Completed,Groceries
+391,132,2025-12-29,14813.59,Credit,UPI,Completed,Dining
+392,1,2025-07-16,4773.07,Debit,Branch,Failed,Shopping
+393,103,2025-01-29,3179.75,Credit,Internet Banking,Pending,Shopping
+394,166,2025-04-14,924.26,Credit,POS,Completed,Healthcare
+395,125,2025-02-13,4431.81,Credit,Internet Banking,Completed,Education
+396,17,2025-10-04,14993.68,Credit,Mobile App,Pending,Healthcare
+397,15,2025-06-22,5856.29,Debit,POS,Completed,Cash
+398,39,2025-10-24,1203.28,Credit,ATM,Completed,Travel
+399,4,2025-03-30,3181.67,Credit,Mobile App,Completed,Utilities
+400,128,2025-11-01,4005.92,Debit,Branch,Completed,Utilities
+401,176,2025-10-22,2752.13,Credit,Branch,Completed,Utilities
+402,31,2025-05-21,749.12,Credit,ATM,Completed,Utilities
+403,203,2025-11-20,3081.59,Credit,Mobile App,Completed,Shopping
+404,107,2025-12-22,4046.69,Debit,Internet Banking,Completed,Dining
+405,45,2025-11-09,3473.78,Debit,Branch,Completed,Education
+406,2,2025-10-13,1216.41,Credit,Internet Banking,Completed,Dining
+407,71,2025-01-28,110655.47,Credit,ATM,Completed,Groceries
+408,14,2025-11-27,1852.76,Debit,Mobile App,Completed,Utilities
+409,190,2025-01-27,4628.06,Credit,POS,Completed,Transfer
+410,152,2025-10-24,1663.56,Debit,ATM,Completed,Utilities
+411,61,2025-07-31,4355.94,Debit,ATM,Completed,Dining
+412,157,2025-08-21,931.4,Debit,ATM,Completed,Healthcare
+413,33,2025-01-17,6193.03,Credit,Branch,Completed,Dining
+414,76,2025-11-06,20891.31,Credit,Mobile App,Completed,Education
+415,134,2025-09-08,4317.89,Debit,POS,Completed,Dining
+416,64,2025-06-17,140934.96,Credit,Internet Banking,Failed,Groceries
+417,11,2025-08-29,3680.71,Credit,Internet Banking,Completed,Transfer
+418,62,2025-02-12,116473.29,Debit,ATM,Completed,Utilities
+419,5,2025-09-03,3361.73,Debit,Internet Banking,Completed,Travel
+420,181,2025-07-27,22431.04,Credit,Internet Banking,Completed,Healthcare
+421,136,2025-01-17,1518.12,Credit,POS,Completed,Utilities
+422,159,2025-06-21,3692.02,Credit,Internet Banking,Completed,Healthcare
+423,120,2025-11-13,12328.66,Credit,ATM,Completed,Healthcare
+424,62,2025-10-04,612.11,Credit,POS,Pending,Dining
+425,83,2025-06-30,4494.77,Debit,Internet Banking,Completed,Cash
+426,135,2025-03-04,15638.09,Debit,POS,Completed,Utilities
+427,49,2025-08-23,47351.48,Credit,Branch,Completed,Utilities
+428,179,2025-03-17,2506.83,Credit,Internet Banking,Completed,Healthcare
+429,108,2025-08-16,3701.66,Debit,Internet Banking,Completed,Healthcare
+430,168,2025-11-27,3944.78,Debit,Branch,Completed,Travel
+431,203,2025-06-06,85530.39,Credit,ATM,Completed,Healthcare
+432,73,2025-08-22,4783.26,Credit,POS,Completed,Travel
+433,42,2025-05-02,628.74,Credit,UPI,Completed,Groceries
+434,171,2025-06-12,81053.64,Credit,Mobile App,Completed,Education
+435,128,2025-03-16,44506.66,Debit,POS,Completed,Shopping
+436,122,2025-05-29,4849.55,Debit,Branch,Completed,Utilities
+437,188,2025-09-03,4505.86,Credit,Internet Banking,Completed,Healthcare
+438,24,2025-06-17,322.42,Debit,ATM,Failed,Groceries
+439,22,2025-10-03,144702.96,Debit,Branch,Completed,Cash
+440,15,2025-12-08,1837.27,Debit,Branch,Completed,Healthcare
+441,79,2025-08-17,4377.79,Debit,Branch,Reversed,Travel
+442,207,2025-08-06,3656.6,Debit,Internet Banking,Completed,Cash
+443,86,2025-02-03,4669.11,Debit,Internet Banking,Completed,Travel
+444,143,2025-08-25,3565.72,Debit,Mobile App,Completed,Shopping
+445,214,2025-10-27,1554.38,Debit,Branch,Completed,Transfer
+446,32,2025-12-01,10753.78,Credit,Mobile App,Completed,Shopping
+447,127,2025-02-04,3014.51,Debit,POS,Completed,Utilities
+448,96,2025-09-20,3678.14,Debit,POS,Completed,Travel
+449,92,2025-03-25,104530.89,Debit,UPI,Completed,Utilities
+450,132,2025-04-10,8664.95,Debit,POS,Completed,Shopping
+451,70,2025-12-17,3504.94,Credit,UPI,Completed,Shopping
+452,96,2025-09-06,2089.37,Credit,UPI,Completed,Cash
+453,217,2025-09-30,3577.11,Credit,ATM,Failed,Groceries
+454,123,2025-06-28,12251.37,Debit,ATM,Completed,Shopping
+455,8,2025-03-02,1150.67,Credit,Mobile App,Completed,Education
+456,177,2025-02-27,434.79,Credit,Internet Banking,Completed,Utilities
+457,65,2025-01-23,18351.73,Credit,UPI,Failed,Dining
+458,48,2025-12-10,130732.69,Debit,Branch,Failed,Travel
+459,219,2025-09-14,3914.97,Credit,UPI,Completed,Dining
+460,184,2025-04-09,4823.11,Credit,UPI,Completed,Transfer
+461,94,2025-12-24,2967.43,Debit,Internet Banking,Completed,Dining
+462,132,2025-04-27,2067.51,Debit,Branch,Completed,Shopping
+463,143,2025-01-21,457.13,Debit,ATM,Completed,Cash
+464,105,2025-05-29,13559.23,Debit,ATM,Completed,Groceries
+465,173,2025-09-09,3376.87,Debit,Internet Banking,Completed,Utilities
+466,190,2025-03-28,370.32,Credit,ATM,Reversed,Education
+467,186,2025-09-13,1428.67,Debit,Branch,Completed,Transfer
+468,171,2025-11-05,4753.19,Credit,Branch,Completed,Transfer
+469,128,2025-04-29,3160.44,Credit,ATM,Completed,Education
+470,155,2025-12-14,11055.05,Debit,Internet Banking,Completed,Dining
+471,76,2025-12-05,15095.9,Credit,Mobile App,Completed,Education
+472,31,2025-07-16,2278.07,Debit,POS,Completed,Travel
+473,126,2025-08-09,715.72,Debit,Internet Banking,Completed,Cash
+474,219,2025-03-22,86836.39,Debit,Branch,Completed,Healthcare
+475,16,2025-01-15,7563.96,Debit,Internet Banking,Completed,Utilities
+476,110,2025-06-26,4960.13,Debit,UPI,Completed,Utilities
+477,177,2025-02-03,4351.25,Debit,UPI,Completed,Cash
+478,108,2025-05-17,150.99,Debit,UPI,Completed,Utilities
+479,207,2025-09-08,545.28,Debit,ATM,Completed,Shopping
+480,94,2025-08-12,1048.71,Credit,Branch,Completed,Shopping
+481,13,2025-06-02,13040.55,Credit,UPI,Completed,Healthcare
+482,70,2025-02-04,2853.82,Debit,UPI,Completed,Shopping
+483,111,2025-12-06,2722.74,Credit,Mobile App,Completed,Cash
+484,48,2025-10-23,18216.12,Debit,UPI,Completed,Groceries
+485,134,2025-04-13,1853.16,Debit,Internet Banking,Completed,Healthcare
+486,213,2025-02-02,3187.94,Credit,Internet Banking,Completed,Dining
+487,30,2025-03-18,999.98,Debit,Internet Banking,Completed,Groceries
+488,52,2025-03-23,1399.92,Credit,POS,Completed,Transfer
+489,201,2025-01-11,323.87,Debit,Branch,Completed,Utilities
+490,102,2025-03-13,1218.4,Debit,Internet Banking,Completed,Utilities
+491,61,2025-11-04,655.27,Credit,Internet Banking,Completed,Dining
+492,37,2025-02-24,917.01,Debit,UPI,Completed,Healthcare
+493,180,2025-02-27,110342.31,Credit,Branch,Completed,Transfer
+494,184,2025-07-08,4115.76,Credit,POS,Completed,Dining
+495,65,2025-10-10,17778.98,Credit,Internet Banking,Completed,Education
+496,3,2025-07-21,23358.53,Debit,ATM,Completed,Travel
+497,113,2025-11-20,21244.96,Credit,Internet Banking,Completed,Transfer
+498,189,2025-07-31,11654.44,Credit,POS,Completed,Shopping
+499,130,2025-02-03,17042.32,Credit,Mobile App,Completed,Travel
+500,162,2025-08-16,3965.55,Credit,Mobile App,Completed,Travel
+501,64,2025-09-22,3582.14,Debit,Branch,Completed,Transfer
+502,123,2025-03-10,18749.34,Debit,Branch,Completed,Travel
+503,101,2025-07-13,53060.89,Credit,Mobile App,Failed,Transfer
+504,51,2025-05-15,3521.24,Credit,Branch,Completed,Travel
+505,146,2025-03-02,15516.75,Debit,Mobile App,Completed,Dining
+506,183,2025-04-15,993.19,Credit,Internet Banking,Completed,Dining
+507,154,2025-04-21,4976.28,Credit,Mobile App,Completed,Shopping
+508,68,2025-05-01,3107.52,Credit,Internet Banking,Completed,Travel
+509,83,2025-12-21,2017.9,Credit,Mobile App,Completed,Cash
+510,16,2025-01-27,138528.32,Credit,Mobile App,Failed,Shopping
+511,130,2025-11-14,1935.64,Credit,UPI,Completed,Travel
+512,67,2025-03-28,2543.55,Debit,ATM,Completed,Shopping
+513,30,2025-06-10,7557.43,Debit,Branch,Completed,Shopping
+514,157,2025-05-16,13715.51,Credit,UPI,Completed,Transfer
+515,14,2025-04-07,785.67,Debit,Mobile App,Completed,Transfer
+516,11,2025-08-15,1814.77,Credit,Mobile App,Completed,Healthcare
+517,24,2025-04-15,4347.46,Credit,UPI,Completed,Groceries
+518,135,2025-10-20,943.82,Debit,Mobile App,Completed,Shopping
+519,175,2025-12-15,653.86,Credit,Mobile App,Completed,Transfer
+520,213,2025-12-29,3314.72,Credit,POS,Completed,Transfer
+521,84,2025-10-19,690.13,Credit,UPI,Completed,Education
+522,24,2025-07-24,1313.06,Credit,ATM,Completed,Education
+523,200,2025-07-26,1460.43,Debit,POS,Completed,Shopping
+524,176,2025-11-05,699.87,Debit,Internet Banking,Completed,Shopping
+525,145,2025-11-04,2144.2,Debit,Mobile App,Completed,Groceries
+526,132,2025-06-24,18528.8,Credit,Branch,Failed,Transfer
+527,112,2025-02-10,4540.68,Credit,UPI,Completed,Education
+528,76,2025-10-19,286.25,Credit,Internet Banking,Completed,Shopping
+529,91,2025-05-11,20372.94,Credit,Internet Banking,Completed,Groceries
+530,22,2025-08-02,4389.94,Debit,Branch,Completed,Travel
+531,55,2025-04-05,437.19,Credit,Mobile App,Completed,Education
+532,30,2025-01-07,14542.4,Debit,Branch,Pending,Healthcare
+533,177,2025-12-11,4817.55,Credit,Mobile App,Completed,Groceries
+534,179,2025-04-07,4302.11,Credit,Mobile App,Completed,Shopping
+535,198,2025-08-26,13437.58,Debit,Internet Banking,Completed,Transfer
+536,6,2025-08-19,9026.77,Credit,Mobile App,Completed,Education
+537,107,2025-09-11,3698.54,Debit,UPI,Completed,Transfer
+538,60,2025-02-01,2665.13,Debit,Internet Banking,Completed,Utilities
+539,127,2025-11-15,4697.87,Credit,Internet Banking,Completed,Healthcare
+540,113,2025-04-29,16753.17,Debit,ATM,Completed,Shopping
+541,186,2025-12-31,1982.34,Debit,ATM,Completed,Dining
+542,73,2025-12-20,3758.81,Credit,Internet Banking,Completed,Transfer
+543,78,2025-05-01,5940.99,Credit,ATM,Completed,Cash
+544,9,2025-02-02,1721.79,Debit,Branch,Completed,Groceries
+545,198,2025-10-13,1374.08,Credit,Internet Banking,Completed,Transfer
+546,216,2025-02-26,20633.05,Credit,UPI,Completed,Utilities
+547,43,2025-11-19,9107.72,Debit,POS,Completed,Utilities
+548,40,2025-11-28,1850.5,Credit,ATM,Pending,Transfer
+549,88,2025-05-27,6704.68,Credit,ATM,Completed,Cash
+550,108,2025-04-27,13576.46,Debit,Mobile App,Failed,Transfer
+551,38,2025-01-06,3602.25,Credit,Internet Banking,Completed,Groceries
+552,101,2025-01-19,3317.87,Debit,Internet Banking,Completed,Education
+553,175,2025-12-25,11086.46,Debit,UPI,Completed,Travel
+554,180,2025-07-26,9102.67,Debit,POS,Completed,Education
+555,199,2025-04-12,4410.82,Credit,UPI,Completed,Cash
+556,73,2025-04-20,16035.72,Credit,UPI,Completed,Shopping
+557,62,2025-06-05,3646.22,Debit,Mobile App,Completed,Groceries
+558,194,2025-11-30,4709.65,Credit,POS,Completed,Cash
+559,217,2025-11-01,10984.03,Credit,POS,Completed,Education
+560,134,2025-05-07,15329.04,Credit,POS,Completed,Education
+561,213,2025-07-30,455.64,Debit,POS,Completed,Cash
+562,104,2025-10-29,2816.89,Debit,POS,Completed,Transfer
+563,188,2025-08-02,7886.92,Credit,POS,Completed,Dining
+564,117,2025-08-31,8136.79,Debit,Mobile App,Completed,Utilities
+565,95,2025-10-20,1483.47,Debit,Internet Banking,Completed,Groceries
+566,203,2025-03-15,16792.48,Credit,ATM,Completed,Transfer
+567,1,2025-03-04,2760.31,Debit,Branch,Completed,Education
+568,122,2025-11-07,7770.45,Credit,POS,Completed,Healthcare
+569,23,2025-11-16,3339.29,Debit,POS,Completed,Shopping
+570,166,2025-02-15,19144.17,Credit,POS,Completed,Cash
+571,22,2025-04-09,119701.9,Debit,UPI,Completed,Groceries
+572,31,2025-12-04,8594.87,Debit,Mobile App,Completed,Cash
+573,156,2025-06-14,2038.9,Debit,Mobile App,Completed,Cash
+574,82,2025-07-15,1323.03,Debit,Mobile App,Completed,Travel
+575,79,2025-07-28,3409.11,Debit,Internet Banking,Completed,Utilities
+576,82,2025-03-14,11484.36,Credit,ATM,Completed,Dining
+577,127,2025-09-18,3774.33,Debit,Mobile App,Completed,Transfer
+578,8,2025-07-28,3186.03,Credit,ATM,Completed,Cash
+579,167,2025-03-06,1557.83,Credit,Branch,Completed,Cash
+580,44,2025-05-06,2710.8,Debit,UPI,Completed,Shopping
+581,168,2025-03-27,52.69,Debit,Branch,Completed,Dining
+582,150,2025-09-19,1442.49,Credit,ATM,Completed,Cash
+583,72,2025-08-10,15096.4,Debit,POS,Failed,Transfer
+584,70,2025-05-06,51327.99,Credit,POS,Completed,Groceries
+585,156,2025-09-01,71.18,Debit,Internet Banking,Completed,Cash
+586,21,2025-11-29,15772.99,Credit,Branch,Completed,Education
+587,212,2025-11-04,1821.93,Debit,Branch,Completed,Dining
+588,114,2025-01-05,5395.63,Credit,UPI,Completed,Shopping
+589,207,2025-04-24,1209.58,Credit,Mobile App,Completed,Dining
+590,211,2025-11-23,2010.63,Credit,Mobile App,Completed,Travel
+591,191,2025-02-03,23671.27,Debit,ATM,Completed,Groceries
+592,178,2025-12-14,2688.06,Credit,Branch,Failed,Education
+593,217,2025-07-28,1406.48,Credit,Mobile App,Completed,Shopping
+594,108,2025-09-30,2271.86,Credit,POS,Completed,Dining
+595,177,2025-08-05,4790.99,Credit,Mobile App,Completed,Transfer
+596,111,2025-01-13,2983.03,Credit,Branch,Completed,Groceries
+597,211,2025-06-20,2622.39,Credit,POS,Completed,Transfer
+598,149,2025-03-05,473.4,Credit,ATM,Completed,Groceries
+599,206,2025-08-15,321.2,Credit,Branch,Completed,Education
+600,103,2025-02-19,13222.16,Debit,Internet Banking,Completed,Transfer
+601,204,2025-08-08,17384.61,Debit,UPI,Completed,Healthcare
+602,151,2025-04-09,584.63,Credit,POS,Completed,Cash
+603,66,2025-07-01,2133.98,Credit,ATM,Completed,Shopping
+604,150,2025-08-12,2589.97,Credit,ATM,Completed,Transfer
+605,80,2025-11-05,1747.36,Credit,ATM,Completed,Cash
+606,210,2025-10-14,4300.58,Credit,Branch,Completed,Dining
+607,171,2025-09-01,3489.17,Debit,UPI,Completed,Shopping
+608,108,2025-06-18,853.29,Credit,POS,Completed,Dining
+609,178,2025-04-28,9262.77,Debit,ATM,Completed,Education
+610,48,2025-01-04,1845.94,Credit,POS,Completed,Healthcare
+611,12,2025-01-16,1035.66,Credit,ATM,Completed,Dining
+612,6,2025-04-01,4222.26,Credit,Branch,Completed,Dining
+613,79,2025-08-22,107613.59,Debit,POS,Pending,Utilities
+614,31,2025-03-15,4419.48,Debit,UPI,Completed,Education
+615,163,2025-05-06,20261.65,Credit,Branch,Completed,Dining
+616,14,2025-11-19,131437.83,Credit,POS,Completed,Utilities
+617,201,2025-08-29,3965.44,Debit,Internet Banking,Completed,Cash
+618,119,2025-04-02,12477.57,Debit,UPI,Completed,Education
+619,164,2025-10-26,3266.2,Credit,Branch,Completed,Education
+620,97,2025-10-20,828.19,Debit,Internet Banking,Completed,Cash
+621,91,2025-04-28,2940.61,Debit,Branch,Completed,Transfer
+622,82,2025-05-20,1942.74,Credit,Branch,Completed,Cash
+623,132,2025-10-07,3236.09,Credit,UPI,Completed,Dining
+624,86,2025-04-11,10000.47,Credit,POS,Completed,Travel
+625,219,2025-10-06,5170.68,Debit,Internet Banking,Completed,Groceries
+626,121,2025-12-01,2587.6,Credit,Internet Banking,Completed,Dining
+627,133,2025-10-28,3940.57,Debit,ATM,Completed,Education
+628,198,2025-12-24,2117.55,Credit,Branch,Completed,Groceries
+629,128,2025-12-04,4179.78,Debit,Branch,Completed,Groceries
+630,146,2025-01-17,4614.61,Debit,Internet Banking,Completed,Dining
+631,101,2025-02-02,2695.73,Debit,Mobile App,Completed,Travel
+632,27,2025-12-12,2786.89,Credit,Internet Banking,Completed,Shopping
+633,53,2025-04-30,1490.97,Debit,Internet Banking,Completed,Education
+634,41,2025-02-26,689.23,Credit,ATM,Completed,Dining
+635,80,2025-08-10,4098.59,Credit,UPI,Completed,Transfer
+636,71,2025-04-14,86.84,Debit,UPI,Completed,Transfer
+637,118,2025-08-25,19745.81,Debit,Internet Banking,Completed,Travel
+638,107,2025-05-08,938.91,Credit,Internet Banking,Completed,Groceries
+639,62,2025-03-22,17561.66,Credit,Internet Banking,Completed,Education
+640,196,2025-10-11,650.09,Debit,Internet Banking,Completed,Travel
+641,65,2025-04-17,2555.02,Debit,Branch,Completed,Education
+642,50,2025-07-23,236.98,Debit,Internet Banking,Completed,Transfer
+643,18,2025-02-12,2764.72,Credit,ATM,Completed,Groceries
+644,156,2025-02-21,927.32,Credit,POS,Completed,Shopping
+645,40,2025-08-14,1822.53,Credit,POS,Completed,Cash
+646,165,2025-12-06,3596.23,Credit,Mobile App,Completed,Education
+647,197,2025-04-14,4647.66,Credit,Branch,Completed,Dining
+648,175,2025-12-09,24174.91,Credit,Mobile App,Completed,Education
+649,132,2025-02-25,4087.34,Debit,Internet Banking,Failed,Utilities
+650,60,2025-04-20,574.13,Credit,Internet Banking,Completed,Dining
+651,17,2025-12-03,4084.67,Debit,UPI,Completed,Transfer
+652,27,2025-12-31,2704.1,Debit,POS,Pending,Education
+653,174,2025-12-22,708.01,Debit,Mobile App,Pending,Healthcare
+654,5,2025-11-08,13978.23,Credit,ATM,Completed,Groceries
+655,158,2025-03-05,1578.8,Debit,Internet Banking,Completed,Shopping
+656,52,2025-03-19,17840.78,Debit,POS,Reversed,Healthcare
+657,35,2025-05-23,20739.42,Debit,Mobile App,Completed,Dining
+658,217,2025-06-19,9116.35,Credit,UPI,Reversed,Education
+659,134,2025-06-14,958.55,Credit,POS,Failed,Travel
+660,53,2025-03-06,16852.61,Credit,Internet Banking,Completed,Transfer
+661,80,2025-03-26,3622.29,Debit,POS,Completed,Dining
+662,70,2025-09-04,446.08,Debit,ATM,Completed,Transfer
+663,6,2025-07-15,2165.62,Credit,Branch,Completed,Education
+664,119,2025-06-06,2295.34,Debit,ATM,Completed,Travel
+665,49,2025-01-03,113.53,Debit,POS,Failed,Healthcare
+666,99,2025-09-08,24750.44,Credit,Internet Banking,Reversed,Travel
+667,50,2025-08-12,4787.63,Debit,POS,Completed,Groceries
+668,167,2025-07-17,4636.27,Credit,POS,Completed,Travel
+669,67,2025-11-06,2304.58,Credit,Mobile App,Failed,Utilities
+670,198,2025-02-17,3239.77,Credit,Internet Banking,Completed,Travel
+671,213,2025-08-07,1301.71,Debit,POS,Completed,Education
+672,193,2025-02-15,16452.23,Credit,POS,Completed,Education
+673,179,2025-06-07,81.78,Debit,UPI,Completed,Education
+674,168,2025-05-28,8412.69,Credit,UPI,Completed,Utilities
+675,116,2025-10-18,4081.13,Debit,Internet Banking,Completed,Transfer
+676,161,2025-11-16,590.52,Credit,Branch,Completed,Groceries
+677,150,2025-05-01,2415.59,Credit,POS,Completed,Groceries
+678,25,2025-04-19,100373.11,Debit,Internet Banking,Completed,Healthcare
+679,155,2025-08-08,1715.92,Debit,POS,Completed,Education
+680,97,2025-11-09,333.35,Debit,POS,Completed,Travel
+681,7,2025-11-05,15612.59,Debit,UPI,Completed,Transfer
+682,132,2025-07-31,104759.16,Debit,Mobile App,Completed,Healthcare
+683,174,2025-08-16,14690.72,Debit,POS,Completed,Utilities
+684,188,2025-07-17,1504.62,Credit,ATM,Completed,Transfer
+685,204,2025-02-14,18461.24,Debit,Mobile App,Completed,Transfer
+686,170,2025-10-04,1242.46,Debit,POS,Completed,Groceries
+687,42,2025-06-17,4518.11,Credit,POS,Completed,Travel
+688,137,2025-11-21,6808.84,Credit,POS,Failed,Healthcare
+689,97,2025-07-15,3286.9,Debit,Mobile App,Completed,Shopping
+690,23,2025-02-27,19811.62,Debit,ATM,Completed,Healthcare
+691,98,2025-10-23,3697.74,Debit,Branch,Completed,Healthcare
+692,205,2025-12-14,4672.93,Credit,UPI,Completed,Transfer
+693,81,2025-03-16,4089.93,Debit,ATM,Completed,Groceries
+694,154,2025-06-13,40433.0,Debit,POS,Completed,Dining
+695,127,2025-05-30,3535.5,Credit,POS,Completed,Dining
+696,180,2025-01-27,20520.77,Credit,Mobile App,Completed,Cash
+697,101,2025-06-22,2141.07,Debit,Branch,Completed,Dining
+698,180,2025-10-08,1999.17,Debit,Internet Banking,Completed,Travel
+699,148,2025-03-12,2237.32,Credit,POS,Completed,Groceries
+700,93,2025-10-22,554.64,Credit,Mobile App,Reversed,Utilities
+701,92,2025-08-31,939.18,Credit,POS,Completed,Education
+702,63,2025-01-18,638.07,Debit,POS,Completed,Utilities
+703,200,2025-08-26,4331.23,Credit,Mobile App,Completed,Utilities
+704,32,2025-09-08,3224.98,Debit,Branch,Reversed,Utilities
+705,204,2025-10-31,946.43,Credit,Branch,Completed,Utilities
+706,183,2025-10-03,965.2,Debit,Mobile App,Completed,Cash
+707,215,2025-10-27,21376.55,Credit,ATM,Completed,Travel
+708,2,2025-10-12,2263.8,Credit,UPI,Completed,Shopping
+709,218,2025-01-18,62322.24,Credit,ATM,Completed,Shopping
+710,12,2025-09-23,4527.87,Debit,UPI,Completed,Healthcare
+711,156,2025-10-03,2577.42,Credit,Branch,Completed,Dining
+712,35,2025-11-05,16835.66,Debit,Branch,Completed,Education
+713,167,2025-03-25,2030.29,Credit,Mobile App,Completed,Shopping
+714,163,2025-12-23,3245.58,Credit,Internet Banking,Completed,Travel
+715,81,2025-08-11,1925.76,Debit,Mobile App,Completed,Healthcare
+716,164,2025-02-15,11670.35,Credit,Mobile App,Completed,Education
+717,57,2025-07-13,4761.33,Debit,Mobile App,Completed,Cash
+718,90,2025-12-25,2882.18,Debit,Internet Banking,Completed,Travel
+719,89,2025-12-14,15633.64,Credit,Branch,Completed,Groceries
+720,176,2025-09-20,3580.45,Debit,POS,Completed,Dining
+721,174,2025-11-08,2120.31,Debit,Branch,Completed,Education
+722,134,2025-04-28,1560.68,Credit,POS,Completed,Utilities
+723,20,2025-05-03,8302.26,Debit,Mobile App,Completed,Education
+724,174,2025-09-18,4665.59,Credit,Internet Banking,Completed,Groceries
+725,158,2025-04-08,19918.35,Credit,POS,Completed,Cash
+726,176,2025-11-08,13973.04,Credit,ATM,Completed,Utilities
+727,94,2025-03-10,2592.74,Credit,Branch,Completed,Dining
+728,213,2025-10-04,4261.35,Credit,POS,Completed,Education
+729,56,2025-06-06,24182.7,Debit,Mobile App,Failed,Healthcare
+730,2,2025-11-12,2328.75,Debit,Branch,Completed,Groceries
+731,26,2025-08-09,2485.63,Debit,Mobile App,Completed,Travel
+732,197,2025-12-03,1288.17,Debit,Mobile App,Completed,Transfer
+733,169,2025-08-13,851.08,Credit,Mobile App,Completed,Dining
+734,73,2025-01-21,711.72,Debit,POS,Completed,Shopping
+735,31,2025-08-04,2470.89,Debit,UPI,Completed,Education
+736,34,2025-02-26,4790.51,Credit,Mobile App,Completed,Healthcare
+737,110,2025-11-02,3700.29,Credit,UPI,Completed,Travel
+738,187,2025-09-19,974.96,Debit,ATM,Completed,Transfer
+739,181,2025-02-22,47648.53,Credit,ATM,Completed,Utilities
+740,34,2025-07-25,239.91,Credit,Mobile App,Completed,Education
+741,105,2025-09-26,1566.91,Debit,POS,Completed,Groceries
+742,78,2025-02-26,1382.77,Credit,ATM,Completed,Groceries
+743,1,2025-01-27,3319.13,Debit,ATM,Completed,Shopping
+744,126,2025-07-06,1704.7,Credit,Branch,Completed,Healthcare
+745,190,2025-07-05,3727.51,Debit,Mobile App,Completed,Utilities
+746,34,2025-11-19,7407.09,Credit,ATM,Completed,Transfer
+747,26,2025-02-08,4712.0,Credit,Mobile App,Completed,Travel
+748,50,2025-08-03,10050.51,Debit,Branch,Completed,Transfer
+749,162,2025-03-02,6354.17,Credit,ATM,Completed,Shopping
+750,179,2025-03-08,32599.17,Debit,Internet Banking,Completed,Cash
+751,132,2025-02-08,20014.56,Debit,ATM,Completed,Travel
+752,1,2025-03-23,16842.26,Debit,Branch,Completed,Dining
+753,76,2025-12-29,1379.15,Credit,Branch,Completed,Travel
+754,70,2025-01-27,3229.94,Debit,POS,Completed,Healthcare
+755,84,2025-02-12,4734.82,Debit,Branch,Completed,Groceries
+756,161,2025-01-06,4128.46,Credit,POS,Pending,Education
+757,168,2025-05-12,17686.11,Debit,ATM,Completed,Education
+758,40,2025-08-17,19525.72,Credit,Internet Banking,Completed,Travel
+759,209,2025-04-01,984.86,Credit,ATM,Completed,Education
+760,176,2025-11-08,979.85,Debit,Mobile App,Completed,Cash
+761,36,2025-01-07,12557.5,Credit,ATM,Completed,Dining
+762,198,2025-02-12,23771.97,Credit,UPI,Completed,Healthcare
+763,219,2025-12-29,7784.6,Debit,Branch,Completed,Transfer
+764,40,2025-05-05,326.58,Credit,UPI,Completed,Shopping
+765,27,2025-09-19,4437.96,Debit,ATM,Completed,Healthcare
+766,168,2025-05-27,22579.8,Credit,Internet Banking,Completed,Travel
+767,29,2025-04-25,553.59,Credit,Mobile App,Completed,Travel
+768,46,2025-08-08,2675.88,Debit,UPI,Completed,Shopping
+769,90,2025-02-23,1391.91,Credit,Mobile App,Completed,Travel
+770,200,2025-12-02,7955.6,Credit,Mobile App,Pending,Education
+771,187,2025-05-23,11461.07,Debit,Internet Banking,Completed,Transfer
+772,178,2025-07-31,42277.66,Debit,Internet Banking,Failed,Cash
+773,128,2025-10-03,2692.16,Debit,UPI,Completed,Dining
+774,180,2025-02-14,1214.21,Credit,Mobile App,Completed,Groceries
+775,90,2025-07-04,4251.32,Debit,ATM,Completed,Dining
+776,212,2025-04-25,7756.03,Credit,POS,Completed,Education
+777,96,2025-01-28,18254.95,Credit,ATM,Completed,Healthcare
+778,37,2025-02-10,1262.98,Debit,POS,Completed,Travel
+779,192,2025-09-28,3507.89,Credit,Branch,Completed,Utilities
+780,40,2025-01-31,4411.73,Debit,POS,Completed,Transfer
+781,142,2025-12-31,23383.0,Credit,Branch,Completed,Utilities
+782,134,2025-07-13,4890.74,Credit,POS,Completed,Cash
+783,155,2025-02-09,4091.97,Credit,Mobile App,Completed,Healthcare
+784,166,2025-08-06,1013.92,Credit,ATM,Completed,Shopping
+785,42,2025-10-05,9238.2,Credit,POS,Completed,Groceries
+786,62,2025-05-18,30609.32,Credit,Branch,Completed,Utilities
+787,80,2025-01-05,4903.68,Debit,POS,Completed,Healthcare
+788,34,2025-12-26,3389.7,Credit,Mobile App,Completed,Education
+789,123,2025-10-28,4350.62,Credit,POS,Completed,Dining
+790,56,2025-12-15,45130.88,Debit,Internet Banking,Completed,Travel
+791,87,2025-05-29,22119.05,Debit,ATM,Completed,Dining
+792,157,2025-11-07,421.24,Credit,Branch,Completed,Cash
+793,205,2025-02-14,2519.62,Debit,Branch,Completed,Utilities
+794,19,2025-04-02,148267.91,Debit,POS,Completed,Travel
+795,32,2025-10-19,2466.88,Credit,Internet Banking,Completed,Healthcare
+796,132,2025-11-16,4762.62,Credit,UPI,Completed,Groceries
+797,190,2025-05-06,3513.74,Debit,Mobile App,Completed,Dining
+798,100,2025-08-25,3362.3,Credit,Mobile App,Completed,Travel
+799,188,2025-02-25,4591.43,Debit,Branch,Completed,Transfer
+800,55,2025-12-26,3719.36,Credit,POS,Failed,Dining
+801,82,2025-10-18,17021.55,Debit,Internet Banking,Completed,Dining
+802,14,2025-04-19,4346.7,Credit,ATM,Completed,Utilities
+803,71,2025-07-27,454.46,Debit,ATM,Completed,Groceries
+804,24,2025-08-08,1742.99,Debit,UPI,Completed,Travel
+805,179,2025-08-12,1805.73,Credit,Mobile App,Completed,Travel
+806,83,2025-12-07,23779.38,Credit,Internet Banking,Completed,Travel
+807,128,2025-06-12,612.35,Debit,ATM,Completed,Transfer
+808,164,2025-10-24,532.36,Credit,UPI,Completed,Education
+809,56,2025-06-28,109953.53,Debit,Mobile App,Completed,Shopping
+810,79,2025-09-15,87391.33,Debit,Branch,Completed,Cash
+811,110,2025-09-25,4871.65,Credit,UPI,Completed,Education
+812,98,2025-05-26,4233.2,Credit,Mobile App,Completed,Utilities
+813,23,2025-11-29,23649.94,Credit,POS,Completed,Transfer
+814,129,2025-10-25,4039.06,Debit,Mobile App,Completed,Dining
+815,121,2025-03-05,20875.02,Debit,Mobile App,Completed,Healthcare
+816,201,2025-04-25,2562.43,Debit,POS,Completed,Dining
+817,2,2025-08-01,5524.94,Debit,Branch,Completed,Travel
+818,147,2025-08-09,1247.06,Debit,ATM,Completed,Education
+819,187,2025-03-30,2045.44,Credit,UPI,Completed,Utilities
+820,162,2025-10-23,3932.19,Debit,ATM,Completed,Utilities
+821,24,2025-01-14,2215.23,Credit,UPI,Completed,Education
+822,7,2025-03-08,4917.9,Credit,Branch,Completed,Dining
+823,138,2025-05-06,3645.25,Credit,ATM,Completed,Groceries
+824,164,2025-10-24,4341.35,Debit,ATM,Completed,Utilities
+825,20,2025-09-11,4230.89,Debit,Mobile App,Completed,Transfer
+826,161,2025-02-09,1090.97,Credit,ATM,Completed,Shopping
+827,3,2025-04-02,3315.35,Debit,Internet Banking,Completed,Cash
+828,2,2025-03-23,2632.66,Credit,ATM,Completed,Healthcare
+829,30,2025-04-22,196.01,Debit,Internet Banking,Completed,Dining
+830,24,2025-06-28,18038.49,Debit,ATM,Completed,Shopping
+831,45,2025-04-12,3450.93,Debit,ATM,Completed,Dining
+832,185,2025-09-07,2195.68,Credit,UPI,Completed,Education
+833,110,2025-04-13,2857.35,Credit,UPI,Completed,Shopping
+834,151,2025-07-29,105637.25,Credit,Mobile App,Completed,Travel
+835,208,2025-06-15,2175.46,Credit,Branch,Completed,Utilities
+836,3,2025-06-13,3457.05,Credit,UPI,Completed,Utilities
+837,99,2025-05-26,3028.92,Credit,UPI,Completed,Education
+838,175,2025-08-11,11402.43,Debit,Internet Banking,Completed,Utilities
+839,32,2025-08-20,897.14,Credit,Internet Banking,Completed,Shopping
+840,34,2025-07-26,233.19,Debit,Mobile App,Completed,Education
+841,186,2025-06-04,1409.63,Credit,Internet Banking,Completed,Shopping
+842,179,2025-08-21,17821.94,Credit,Mobile App,Failed,Dining
+843,13,2025-01-06,24870.81,Credit,ATM,Completed,Healthcare
+844,209,2025-10-03,4948.35,Credit,Mobile App,Completed,Shopping
+845,20,2025-05-16,1680.18,Credit,UPI,Completed,Transfer
+846,31,2025-03-06,7960.03,Debit,POS,Completed,Utilities
+847,134,2025-09-28,1240.59,Debit,ATM,Completed,Utilities
+848,68,2025-06-01,3571.34,Credit,POS,Completed,Utilities
+849,20,2025-09-11,5262.56,Credit,Branch,Completed,Dining
+850,209,2025-10-30,64169.88,Credit,UPI,Completed,Utilities
+851,34,2025-04-23,4587.65,Debit,ATM,Completed,Utilities
+852,72,2025-08-05,862.77,Credit,POS,Completed,Utilities
+853,62,2025-01-09,4475.79,Debit,Mobile App,Completed,Cash
+854,22,2025-07-01,2185.79,Debit,Branch,Completed,Utilities
+855,13,2025-11-29,1943.49,Debit,UPI,Completed,Transfer
+856,133,2025-08-10,590.46,Credit,UPI,Completed,Shopping
+857,62,2025-02-03,2684.05,Debit,Mobile App,Completed,Dining
+858,188,2025-12-21,1377.92,Debit,POS,Completed,Groceries
+859,25,2025-04-05,2541.04,Credit,ATM,Completed,Healthcare
+860,175,2025-02-05,81902.04,Debit,Branch,Completed,Groceries
+861,46,2025-05-16,4412.22,Debit,UPI,Completed,Groceries
+862,126,2025-05-07,2389.21,Credit,UPI,Completed,Cash
+863,43,2025-03-17,3887.52,Debit,UPI,Completed,Shopping
+864,170,2025-09-07,1305.01,Debit,Mobile App,Completed,Shopping
+865,176,2025-09-23,5414.55,Credit,Branch,Completed,Transfer
+866,8,2025-05-06,2909.04,Debit,POS,Completed,Utilities
+867,71,2025-11-17,81158.67,Debit,POS,Completed,Healthcare
+868,85,2025-07-20,2966.28,Debit,UPI,Completed,Utilities
+869,111,2025-08-21,2854.98,Credit,Internet Banking,Completed,Travel
+870,134,2025-05-29,3137.79,Credit,Internet Banking,Completed,Groceries
+871,56,2025-05-25,4136.08,Credit,Mobile App,Completed,Shopping
+872,36,2025-06-29,87749.15,Credit,POS,Completed,Shopping
+873,37,2025-04-11,2188.65,Credit,POS,Failed,Education
+874,109,2025-07-24,4836.19,Debit,POS,Completed,Healthcare
+875,206,2025-10-24,738.92,Debit,Mobile App,Completed,Shopping
+876,146,2025-11-18,8667.44,Debit,POS,Completed,Healthcare
+877,129,2025-12-17,3577.36,Credit,UPI,Completed,Groceries
+878,197,2025-08-04,7811.71,Debit,ATM,Completed,Cash
+879,145,2025-05-31,315.0,Debit,Mobile App,Completed,Utilities
+880,15,2025-05-19,4157.98,Debit,POS,Completed,Healthcare
+881,16,2025-03-04,3715.34,Credit,UPI,Completed,Transfer
+882,35,2025-04-25,4480.51,Credit,Internet Banking,Completed,Dining
+883,30,2025-02-04,50.18,Debit,Mobile App,Completed,Cash
+884,114,2025-07-20,75569.67,Debit,UPI,Completed,Transfer
+885,169,2025-11-12,659.82,Credit,ATM,Completed,Cash
+886,190,2025-12-25,2756.07,Debit,Branch,Pending,Shopping
+887,101,2025-07-17,3503.38,Debit,Mobile App,Completed,Education
+888,3,2025-10-25,1548.67,Debit,ATM,Completed,Transfer
+889,186,2025-08-23,24635.07,Debit,POS,Completed,Cash
+890,100,2025-09-20,18118.38,Credit,Branch,Completed,Shopping
+891,101,2025-02-04,4584.99,Debit,ATM,Completed,Healthcare
+892,151,2025-10-25,1773.07,Credit,ATM,Completed,Utilities
+893,171,2025-02-24,2522.2,Credit,Mobile App,Completed,Travel
+894,187,2025-07-16,3791.28,Credit,Internet Banking,Completed,Healthcare
+895,156,2025-11-20,4211.36,Credit,ATM,Completed,Shopping
+896,126,2025-08-13,3410.3,Credit,Mobile App,Completed,Groceries
+897,162,2025-12-09,526.22,Credit,Branch,Completed,Travel
+898,175,2025-11-25,8802.74,Debit,UPI,Completed,Cash
+899,219,2025-03-12,13777.56,Credit,UPI,Completed,Shopping
+900,26,2025-03-02,2518.63,Debit,Branch,Completed,Education
+901,181,2025-07-03,386.37,Debit,Internet Banking,Completed,Groceries
+902,140,2025-12-24,142115.86,Credit,Branch,Completed,Education
+903,67,2025-04-13,1705.98,Credit,ATM,Completed,Transfer
+904,19,2025-10-16,4526.4,Debit,UPI,Reversed,Utilities
+905,142,2025-09-03,4735.67,Debit,Internet Banking,Completed,Transfer
+906,78,2025-04-27,6107.13,Debit,POS,Completed,Groceries
+907,142,2025-09-04,308.1,Credit,Mobile App,Completed,Transfer
+908,31,2025-11-12,4913.55,Credit,Mobile App,Completed,Groceries
+909,59,2025-07-31,3750.0,Credit,POS,Reversed,Dining
+910,209,2025-01-30,429.23,Credit,Branch,Completed,Travel
+911,156,2025-07-23,2419.57,Debit,POS,Completed,Healthcare
+912,57,2025-08-16,3580.01,Debit,Branch,Completed,Cash
+913,129,2025-02-23,317.29,Credit,ATM,Completed,Cash
+914,60,2025-06-06,9215.39,Credit,POS,Completed,Transfer
+915,167,2025-08-21,4767.57,Debit,Mobile App,Completed,Groceries
+916,72,2025-11-09,1950.48,Debit,ATM,Completed,Education
+917,137,2025-01-27,5626.12,Debit,Branch,Failed,Dining
+918,194,2025-01-15,1737.67,Credit,Mobile App,Completed,Cash
+919,100,2025-12-14,1472.72,Debit,ATM,Completed,Education
+920,120,2025-05-02,124948.62,Credit,UPI,Completed,Shopping
+921,87,2025-10-20,2003.28,Credit,Mobile App,Completed,Shopping
+922,146,2025-12-05,1638.9,Debit,Mobile App,Completed,Healthcare
+923,123,2025-11-23,9356.85,Debit,Mobile App,Completed,Transfer
+924,47,2025-05-13,3841.59,Credit,UPI,Completed,Groceries
+925,60,2025-02-28,3290.27,Credit,Mobile App,Completed,Shopping
+926,66,2025-01-09,22149.81,Debit,Mobile App,Completed,Utilities
+927,130,2025-08-16,610.25,Debit,Mobile App,Completed,Education
+928,73,2025-03-15,70035.87,Debit,Internet Banking,Completed,Shopping
+929,160,2025-01-16,5892.21,Credit,Branch,Completed,Cash
+930,184,2025-09-18,3928.16,Credit,Internet Banking,Completed,Utilities
+931,20,2025-04-25,24956.26,Credit,UPI,Completed,Groceries
+932,156,2025-08-30,3313.03,Credit,Branch,Completed,Dining
+933,205,2025-07-05,1192.91,Debit,Branch,Completed,Utilities
+934,91,2025-10-14,2552.94,Debit,ATM,Completed,Travel
+935,138,2025-05-06,3893.42,Debit,Branch,Completed,Healthcare
+936,31,2025-02-11,2072.09,Credit,ATM,Completed,Transfer
+937,4,2025-03-27,10267.52,Credit,Mobile App,Completed,Education
+938,7,2025-12-20,876.33,Debit,Branch,Completed,Travel
+939,103,2025-12-23,19239.67,Credit,POS,Completed,Groceries
+940,19,2025-07-01,23213.48,Debit,POS,Completed,Travel
+941,188,2025-04-04,3632.35,Credit,UPI,Completed,Healthcare
+942,173,2025-11-29,11408.74,Credit,ATM,Completed,Shopping
+943,127,2025-06-24,289.03,Debit,Branch,Failed,Education
+944,82,2025-04-02,5838.69,Debit,UPI,Completed,Shopping
+945,148,2025-11-12,1606.12,Credit,ATM,Completed,Shopping
+946,67,2025-11-07,3779.67,Credit,Mobile App,Completed,Groceries
+947,139,2025-10-03,4005.01,Debit,POS,Completed,Transfer
+948,134,2025-03-06,10898.83,Debit,Internet Banking,Completed,Transfer
+949,68,2025-02-14,4329.29,Credit,POS,Completed,Dining
+950,187,2025-02-08,1669.22,Credit,POS,Completed,Healthcare
+951,10,2025-08-10,547.17,Credit,POS,Completed,Groceries
+952,63,2025-03-12,2952.4,Debit,ATM,Completed,Transfer
+953,73,2025-03-09,22517.28,Credit,Internet Banking,Completed,Utilities
+954,126,2025-10-13,3075.53,Credit,POS,Completed,Healthcare
+955,124,2025-09-29,3301.86,Debit,Internet Banking,Completed,Education
+956,154,2025-07-02,52366.32,Debit,Internet Banking,Completed,Transfer
+957,84,2025-05-07,3328.97,Debit,POS,Completed,Travel
+958,199,2025-09-05,4208.6,Debit,UPI,Completed,Dining
+959,218,2025-07-29,350.98,Debit,Internet Banking,Completed,Education
+960,67,2025-01-28,19563.74,Debit,ATM,Completed,Travel
+961,138,2025-04-16,3908.78,Credit,POS,Completed,Groceries
+962,206,2025-07-14,19094.61,Credit,UPI,Completed,Dining
+963,93,2025-10-02,8139.86,Credit,Branch,Completed,Healthcare
+964,106,2025-04-21,9974.07,Credit,UPI,Completed,Education
+965,203,2025-09-06,259.31,Credit,Branch,Completed,Utilities
+966,209,2025-07-13,3293.62,Credit,UPI,Completed,Education
+967,6,2025-01-08,3726.13,Debit,ATM,Completed,Shopping
+968,201,2025-06-15,2154.51,Debit,Internet Banking,Completed,Shopping
+969,110,2025-02-17,1150.15,Credit,Internet Banking,Completed,Groceries
+970,128,2025-07-21,4759.71,Credit,Internet Banking,Completed,Dining
+971,115,2025-07-09,2410.19,Credit,Mobile App,Completed,Cash
+972,44,2025-04-17,4330.9,Debit,UPI,Completed,Dining
+973,16,2025-09-10,1297.52,Debit,Mobile App,Completed,Shopping
+974,177,2025-04-18,3787.44,Debit,Internet Banking,Completed,Transfer
+975,132,2025-10-12,4300.33,Debit,ATM,Completed,Groceries
+976,42,2025-09-24,79700.16,Debit,Internet Banking,Completed,Travel
+977,161,2025-09-26,2461.61,Debit,Branch,Completed,Shopping
+978,134,2025-06-15,3094.75,Credit,UPI,Completed,Healthcare
+979,133,2025-11-06,14257.6,Credit,ATM,Completed,Cash
+980,184,2025-08-31,98.61,Debit,POS,Pending,Dining
+981,52,2025-12-22,514.55,Credit,Branch,Completed,Cash
+982,58,2025-06-26,23557.59,Debit,Branch,Completed,Education
+983,66,2025-10-15,2728.03,Debit,ATM,Completed,Shopping
+984,145,2025-02-22,677.19,Debit,POS,Completed,Transfer
+985,54,2025-03-28,9636.62,Credit,ATM,Completed,Transfer
+986,1,2025-06-15,24396.84,Debit,Branch,Completed,Shopping
+987,129,2025-03-02,12864.93,Debit,UPI,Completed,Utilities
+988,155,2025-04-20,23909.8,Debit,Internet Banking,Completed,Shopping
+989,176,2025-03-03,2811.63,Debit,POS,Completed,Healthcare
+990,187,2025-08-06,16195.88,Credit,POS,Completed,Groceries
+991,51,2025-08-15,1836.91,Debit,UPI,Failed,Groceries
+992,156,2025-05-20,215.96,Debit,Branch,Completed,Groceries
+993,147,2025-01-16,4322.77,Debit,POS,Completed,Cash
+994,207,2025-02-23,239.06,Credit,Mobile App,Completed,Education
+995,214,2025-03-03,327.44,Credit,POS,Completed,Groceries
+996,86,2025-12-11,11329.61,Debit,UPI,Completed,Groceries
+997,171,2025-07-26,2111.07,Credit,POS,Completed,Shopping
+998,22,2025-03-30,2244.82,Credit,Branch,Completed,Shopping
+999,144,2025-06-29,632.69,Credit,Mobile App,Failed,Utilities
+1000,47,2025-02-14,16822.97,Credit,POS,Completed,Healthcare
+1001,118,2025-02-11,4392.13,Credit,POS,Failed,Travel
+1002,80,2025-01-28,1927.59,Credit,Branch,Completed,Dining
+1003,46,2025-06-01,1333.8,Debit,POS,Completed,Travel
+1004,10,2025-10-27,15758.98,Debit,ATM,Completed,Healthcare
+1005,180,2025-09-15,2780.48,Credit,Internet Banking,Completed,Shopping
+1006,9,2025-03-01,2609.3,Debit,POS,Completed,Groceries
+1007,83,2025-12-26,567.83,Debit,POS,Completed,Utilities
+1008,48,2025-07-03,1566.06,Debit,UPI,Completed,Education
+1009,188,2025-07-24,2394.18,Debit,Branch,Completed,Groceries
+1010,60,2025-09-17,583.88,Credit,UPI,Completed,Travel
+1011,77,2025-11-02,49807.77,Credit,POS,Completed,Healthcare
+1012,202,2025-01-28,11185.47,Credit,Internet Banking,Completed,Groceries
+1013,169,2025-03-17,1042.01,Debit,Mobile App,Completed,Dining
+1014,40,2025-12-17,2798.97,Debit,POS,Completed,Dining
+1015,121,2025-12-09,14269.68,Debit,ATM,Completed,Education
+1016,198,2025-06-17,4495.21,Credit,Branch,Completed,Transfer
+1017,172,2025-10-28,183.14,Credit,UPI,Completed,Education
+1018,20,2025-11-27,1188.86,Debit,POS,Completed,Travel
+1019,109,2025-03-19,1460.57,Debit,ATM,Pending,Travel
+1020,102,2025-12-16,2610.88,Debit,Mobile App,Completed,Travel
+1021,82,2025-03-07,2894.68,Debit,Internet Banking,Pending,Groceries
+1022,78,2025-08-06,17682.34,Debit,Internet Banking,Completed,Healthcare
+1023,217,2025-10-01,4860.26,Credit,ATM,Completed,Groceries
+1024,87,2025-12-29,8952.26,Credit,Internet Banking,Completed,Shopping
+1025,11,2025-03-04,4346.09,Debit,Branch,Completed,Shopping
+1026,197,2025-01-13,2736.61,Credit,UPI,Completed,Utilities
+1027,92,2025-01-19,2679.78,Credit,POS,Completed,Transfer
+1028,111,2025-05-21,14160.62,Debit,Mobile App,Completed,Utilities
+1029,84,2025-07-10,17187.07,Credit,Branch,Completed,Shopping
+1030,109,2025-07-25,160.8,Debit,Mobile App,Completed,Dining
+1031,147,2025-05-14,17311.63,Credit,Branch,Completed,Transfer
+1032,56,2025-08-12,1410.19,Debit,ATM,Completed,Shopping
+1033,70,2025-01-03,2065.55,Debit,Mobile App,Completed,Dining
+1034,58,2025-01-10,9421.15,Debit,UPI,Completed,Education
+1035,163,2025-11-01,1677.32,Debit,Internet Banking,Completed,Travel
+1036,119,2025-09-13,1092.66,Credit,POS,Completed,Transfer
+1037,144,2025-06-26,461.31,Debit,POS,Completed,Transfer
+1038,8,2025-03-21,3143.07,Credit,Branch,Reversed,Cash
+1039,191,2025-09-09,4948.92,Credit,Mobile App,Failed,Education
+1040,56,2025-04-19,4961.05,Debit,UPI,Completed,Education
+1041,91,2025-04-22,2119.99,Debit,UPI,Completed,Cash
+1042,137,2025-07-20,1164.24,Credit,ATM,Failed,Education
+1043,74,2025-01-02,2686.7,Debit,UPI,Completed,Education
+1044,108,2025-07-30,984.93,Credit,UPI,Completed,Education
+1045,6,2025-06-16,3068.57,Credit,POS,Failed,Education
+1046,142,2025-09-19,4324.02,Credit,Internet Banking,Completed,Dining
+1047,83,2025-03-09,1500.26,Debit,ATM,Completed,Travel
+1048,119,2025-09-14,21073.74,Credit,Internet Banking,Completed,Utilities
+1049,2,2025-01-17,3426.02,Debit,Branch,Completed,Cash
+1050,31,2025-11-07,3253.09,Debit,Internet Banking,Completed,Groceries
+1051,94,2025-07-24,3597.29,Credit,Branch,Completed,Utilities
+1052,185,2025-03-28,1864.0,Debit,Mobile App,Completed,Healthcare
+1053,165,2025-12-22,416.64,Debit,POS,Completed,Transfer
+1054,85,2025-08-19,16364.62,Debit,Mobile App,Completed,Dining
+1055,95,2025-10-16,1845.48,Debit,POS,Completed,Transfer
+1056,173,2025-05-31,814.48,Debit,POS,Completed,Dining
+1057,8,2025-04-19,2936.99,Debit,Internet Banking,Completed,Travel
+1058,89,2025-11-26,821.59,Debit,POS,Completed,Travel
+1059,135,2025-09-04,26779.07,Debit,ATM,Completed,Dining
+1060,39,2025-05-23,3062.77,Credit,POS,Completed,Cash
+1061,59,2025-04-14,103300.25,Debit,UPI,Completed,Cash
+1062,217,2025-10-03,4369.45,Debit,POS,Completed,Travel
+1063,177,2025-11-30,4294.74,Debit,UPI,Pending,Shopping
+1064,24,2025-04-08,3680.02,Credit,ATM,Completed,Dining
+1065,150,2025-10-25,2412.55,Credit,ATM,Completed,Transfer
+1066,30,2025-08-15,462.76,Credit,UPI,Completed,Education
+1067,29,2025-08-15,3898.11,Credit,Branch,Completed,Education
+1068,154,2025-05-19,2488.4,Debit,Branch,Failed,Cash
+1069,64,2025-06-24,1412.68,Credit,Internet Banking,Pending,Groceries
+1070,82,2025-09-18,2379.01,Debit,Branch,Completed,Cash
+1071,211,2025-04-04,1008.3,Debit,Mobile App,Completed,Shopping
+1072,157,2025-04-18,8091.95,Credit,UPI,Completed,Travel
+1073,84,2025-09-22,18069.81,Debit,Internet Banking,Completed,Shopping
+1074,95,2025-03-16,1565.85,Debit,Internet Banking,Completed,Groceries
+1075,196,2025-07-26,323.77,Debit,Mobile App,Completed,Dining
+1076,54,2025-12-05,3597.53,Debit,UPI,Completed,Cash
+1077,190,2025-04-13,3997.5,Credit,Branch,Completed,Transfer
+1078,185,2025-10-31,2375.87,Debit,ATM,Completed,Shopping
+1079,156,2025-10-28,1906.34,Debit,Mobile App,Completed,Transfer
+1080,35,2025-02-07,1656.5,Debit,UPI,Completed,Dining
+1081,144,2025-02-15,2219.39,Debit,POS,Completed,Groceries
+1082,36,2025-02-04,117382.28,Debit,POS,Completed,Dining
+1083,48,2025-06-14,2368.22,Debit,UPI,Completed,Groceries
+1084,36,2025-03-03,13546.62,Credit,UPI,Completed,Healthcare
+1085,5,2025-10-17,5641.68,Debit,Branch,Completed,Healthcare
+1086,163,2025-02-04,16306.14,Credit,UPI,Completed,Transfer
+1087,157,2025-11-29,4965.1,Debit,POS,Completed,Travel
+1088,167,2025-06-19,411.48,Debit,Mobile App,Completed,Education
+1089,148,2025-05-31,81.45,Debit,ATM,Completed,Healthcare
+1090,137,2025-08-23,9006.63,Credit,ATM,Completed,Travel
+1091,53,2025-06-07,5524.49,Debit,Mobile App,Completed,Healthcare
+1092,81,2025-04-28,45411.11,Credit,Branch,Completed,Groceries
+1093,36,2025-08-14,23960.27,Credit,Internet Banking,Completed,Groceries
+1094,115,2025-08-13,9112.65,Credit,UPI,Completed,Cash
+1095,32,2025-03-25,3795.2,Debit,Internet Banking,Completed,Dining
+1096,54,2025-02-16,4008.97,Credit,Internet Banking,Completed,Education
+1097,103,2025-02-21,1805.67,Debit,ATM,Completed,Utilities
+1098,167,2025-11-26,26981.25,Debit,Mobile App,Completed,Travel
+1099,217,2025-05-08,927.92,Credit,Mobile App,Completed,Dining
+1100,190,2025-12-05,1500.77,Credit,POS,Completed,Travel
+1101,94,2025-02-26,3943.46,Debit,UPI,Completed,Healthcare
+1102,8,2025-01-14,22776.41,Credit,UPI,Failed,Education
+1103,196,2025-11-03,3626.49,Debit,Mobile App,Completed,Utilities
+1104,122,2025-08-26,4917.68,Credit,Branch,Completed,Transfer
+1105,121,2025-05-12,684.58,Debit,Internet Banking,Completed,Dining
+1106,33,2025-04-23,2597.93,Debit,Branch,Completed,Utilities
+1107,64,2025-04-26,19600.61,Debit,ATM,Completed,Healthcare
+1108,109,2025-07-11,3322.95,Debit,POS,Completed,Groceries
+1109,204,2025-04-12,5286.43,Debit,Branch,Completed,Groceries
+1110,147,2025-09-04,11878.04,Debit,ATM,Completed,Transfer
+1111,160,2025-05-15,7356.38,Debit,ATM,Failed,Shopping
+1112,88,2025-09-07,14126.32,Debit,Mobile App,Completed,Healthcare
+1113,110,2025-11-25,36822.94,Credit,UPI,Completed,Shopping
+1114,33,2025-06-27,1569.8,Credit,Internet Banking,Completed,Cash
+1115,50,2025-03-14,9437.14,Credit,UPI,Completed,Cash
+1116,135,2025-01-25,53802.94,Debit,ATM,Completed,Utilities
+1117,175,2025-03-26,22178.82,Debit,ATM,Completed,Shopping
+1118,13,2025-07-25,23019.13,Credit,POS,Completed,Shopping
+1119,1,2025-02-08,16115.15,Credit,Mobile App,Completed,Education
+1120,36,2025-03-15,146511.88,Debit,ATM,Pending,Education
+1121,101,2025-10-30,33816.45,Debit,Mobile App,Completed,Travel
+1122,53,2025-08-16,754.92,Credit,POS,Completed,Transfer
+1123,60,2025-12-05,2219.45,Debit,Branch,Completed,Groceries
+1124,98,2025-05-11,14330.51,Debit,Branch,Completed,Dining
+1125,134,2025-02-22,19635.19,Debit,POS,Completed,Education
+1126,108,2025-01-30,22303.34,Debit,POS,Completed,Cash
+1127,85,2025-08-03,3351.54,Debit,ATM,Completed,Transfer
+1128,57,2025-10-30,10315.08,Debit,UPI,Completed,Cash
+1129,171,2025-07-15,258.4,Credit,Mobile App,Completed,Dining
+1130,93,2025-10-25,3379.42,Debit,POS,Completed,Transfer
+1131,219,2025-08-24,15455.31,Debit,POS,Completed,Groceries
+1132,56,2025-10-18,944.65,Credit,POS,Completed,Transfer
+1133,218,2025-05-10,69047.31,Credit,Branch,Completed,Transfer
+1134,179,2025-11-22,20872.82,Debit,POS,Completed,Education
+1135,193,2025-06-28,3915.79,Credit,Branch,Completed,Shopping
+1136,26,2025-02-16,3215.29,Debit,POS,Completed,Transfer
+1137,90,2025-06-22,119346.36,Credit,ATM,Completed,Shopping
+1138,130,2025-12-25,3229.42,Credit,ATM,Completed,Utilities
+1139,24,2025-12-31,3009.95,Debit,Internet Banking,Completed,Travel
+1140,99,2025-02-23,19725.65,Credit,Branch,Completed,Dining
+1141,114,2025-01-21,1267.22,Credit,ATM,Completed,Dining
+1142,113,2025-11-28,62099.14,Debit,Internet Banking,Completed,Education
+1143,143,2025-10-10,4991.94,Debit,POS,Completed,Shopping
+1144,181,2025-07-06,10271.15,Debit,UPI,Failed,Healthcare
+1145,20,2025-12-21,715.74,Credit,Mobile App,Completed,Cash
+1146,182,2025-09-01,2700.03,Credit,Internet Banking,Completed,Shopping
+1147,148,2025-01-28,2328.18,Credit,UPI,Reversed,Transfer
+1148,144,2025-11-29,334.85,Credit,POS,Completed,Shopping
+1149,146,2025-05-10,4739.39,Credit,Internet Banking,Completed,Dining
+1150,170,2025-08-20,1583.64,Debit,ATM,Completed,Cash
+1151,175,2025-10-28,5135.51,Credit,Mobile App,Completed,Utilities
+1152,136,2025-07-31,3665.38,Credit,ATM,Completed,Groceries
+1153,167,2025-09-11,3656.9,Debit,Internet Banking,Completed,Education
+1154,179,2025-08-31,735.62,Debit,Internet Banking,Completed,Utilities
+1155,48,2025-05-14,2037.07,Credit,UPI,Completed,Shopping
+1156,6,2025-11-07,351.46,Credit,Mobile App,Completed,Healthcare
+1157,99,2025-06-06,23102.9,Credit,POS,Pending,Transfer
+1158,47,2025-10-02,11904.96,Credit,Internet Banking,Completed,Travel
+1159,130,2025-03-18,13902.13,Credit,Branch,Completed,Shopping
+1160,28,2025-06-28,3431.01,Credit,UPI,Completed,Healthcare
+1161,117,2025-12-04,2762.5,Debit,ATM,Completed,Healthcare
+1162,37,2025-05-03,4803.92,Debit,POS,Completed,Utilities
+1163,218,2025-09-24,500.22,Debit,UPI,Completed,Dining
+1164,73,2025-06-14,720.6,Debit,Mobile App,Completed,Transfer
+1165,7,2025-09-09,566.38,Debit,POS,Reversed,Groceries
+1166,136,2025-01-22,6783.75,Credit,POS,Completed,Healthcare
+1167,190,2025-01-25,2694.75,Credit,POS,Pending,Education
+1168,190,2025-09-18,2643.72,Credit,Internet Banking,Failed,Travel
+1169,57,2025-12-31,1635.54,Credit,Internet Banking,Completed,Dining
+1170,177,2025-03-01,5094.78,Credit,Internet Banking,Completed,Dining
+1171,96,2025-07-25,271.55,Debit,POS,Completed,Shopping
+1172,53,2025-12-01,3696.34,Debit,ATM,Completed,Transfer
+1173,65,2025-11-04,18850.46,Credit,Mobile App,Completed,Utilities
+1174,30,2025-03-23,4515.97,Debit,POS,Failed,Education
+1175,73,2025-10-02,22110.16,Credit,Mobile App,Completed,Cash
+1176,217,2025-09-12,1043.9,Credit,Internet Banking,Completed,Travel
+1177,22,2025-12-22,4041.73,Credit,POS,Completed,Cash
+1178,197,2025-04-07,3854.32,Debit,ATM,Completed,Healthcare
+1179,119,2025-04-13,72504.29,Credit,ATM,Completed,Dining
+1180,86,2025-12-03,5506.19,Debit,UPI,Completed,Travel
+1181,37,2025-10-08,4822.67,Credit,POS,Completed,Healthcare
+1182,95,2025-01-20,760.26,Debit,UPI,Completed,Utilities
+1183,58,2025-11-18,15911.65,Debit,Branch,Completed,Education
+1184,116,2025-05-02,68143.28,Credit,Internet Banking,Completed,Cash
+1185,93,2025-04-25,46794.14,Credit,Branch,Reversed,Groceries
+1186,111,2025-06-03,762.72,Debit,ATM,Completed,Healthcare
+1187,54,2025-07-27,2134.65,Debit,Branch,Completed,Healthcare
+1188,171,2025-07-24,15598.74,Debit,Internet Banking,Completed,Cash
+1189,196,2025-07-29,1905.34,Debit,Branch,Completed,Education
+1190,14,2025-04-13,1125.03,Credit,Internet Banking,Completed,Groceries
+1191,178,2025-04-16,18339.87,Credit,POS,Completed,Education
+1192,148,2025-04-12,11329.81,Debit,Branch,Completed,Cash
+1193,189,2025-11-18,4385.79,Credit,Branch,Completed,Utilities
+1194,81,2025-07-02,8012.06,Debit,UPI,Completed,Transfer
+1195,122,2025-06-23,3532.84,Credit,ATM,Completed,Education
+1196,31,2025-09-30,4555.65,Debit,POS,Completed,Dining
+1197,30,2025-12-06,4729.74,Debit,Internet Banking,Completed,Transfer
+1198,44,2025-01-11,2951.57,Debit,Mobile App,Completed,Transfer
+1199,172,2025-10-18,1751.95,Debit,POS,Completed,Education
+1200,39,2025-02-26,108612.98,Credit,Branch,Completed,Transfer
+1201,5,2025-11-15,13354.77,Debit,UPI,Completed,Groceries
+1202,126,2025-06-13,4533.79,Debit,Branch,Completed,Groceries
+1203,70,2025-12-03,2317.53,Credit,POS,Pending,Groceries
+1204,78,2025-07-14,1038.23,Debit,Branch,Completed,Healthcare
+1205,206,2025-09-20,4275.45,Debit,UPI,Failed,Dining
+1206,126,2025-05-25,1370.03,Debit,UPI,Completed,Utilities
+1207,6,2025-03-07,4040.82,Credit,Mobile App,Completed,Utilities
+1208,3,2025-01-07,3695.69,Debit,POS,Completed,Healthcare
+1209,202,2025-12-07,573.87,Credit,ATM,Completed,Utilities
+1210,184,2025-02-16,69.01,Debit,POS,Completed,Cash
+1211,50,2025-09-01,19164.75,Credit,Internet Banking,Completed,Travel
+1212,130,2025-01-04,24483.81,Credit,POS,Completed,Utilities
+1213,180,2025-02-08,981.58,Debit,UPI,Completed,Education
+1214,130,2025-11-24,13530.47,Debit,Branch,Completed,Travel
+1215,17,2025-02-01,360.78,Credit,POS,Completed,Transfer
+1216,4,2025-12-12,486.75,Credit,UPI,Completed,Shopping
+1217,187,2025-06-13,2281.4,Debit,UPI,Completed,Dining
+1218,59,2025-10-28,18817.29,Debit,Internet Banking,Completed,Transfer
+1219,116,2025-03-20,753.31,Debit,Internet Banking,Completed,Travel
+1220,103,2025-07-07,119.05,Credit,ATM,Completed,Utilities
+1221,5,2025-07-20,2387.83,Debit,ATM,Completed,Dining
+1222,125,2025-11-07,3632.46,Credit,Branch,Pending,Utilities
+1223,18,2025-06-15,3544.82,Credit,Internet Banking,Completed,Transfer
+1224,4,2025-06-07,3175.97,Credit,UPI,Completed,Shopping
+1225,88,2025-07-11,71195.94,Debit,Branch,Completed,Education
+1226,64,2025-04-18,18765.64,Debit,Branch,Completed,Cash
+1227,88,2025-10-23,137731.98,Credit,POS,Completed,Dining
+1228,209,2025-05-08,2468.51,Credit,UPI,Completed,Healthcare
+1229,21,2025-09-28,136363.82,Debit,Internet Banking,Completed,Dining
+1230,203,2025-05-22,3573.94,Credit,Branch,Completed,Healthcare
+1231,212,2025-11-14,2438.64,Credit,POS,Reversed,Dining
+1232,153,2025-11-06,645.79,Debit,ATM,Completed,Education
+1233,109,2025-12-25,4102.0,Debit,Mobile App,Completed,Healthcare
+1234,120,2025-03-17,2261.09,Debit,Internet Banking,Completed,Shopping
+1235,51,2025-12-28,3052.39,Credit,Branch,Completed,Cash
+1236,123,2025-07-08,751.68,Debit,Internet Banking,Completed,Travel
+1237,84,2025-11-10,4188.56,Credit,POS,Completed,Travel
+1238,128,2025-02-02,4638.4,Credit,Branch,Completed,Healthcare
+1239,87,2025-02-11,2092.58,Debit,POS,Completed,Travel
+1240,141,2025-02-15,13969.96,Credit,Mobile App,Completed,Cash
+1241,7,2025-01-27,3232.37,Credit,ATM,Completed,Cash
+1242,82,2025-06-15,1968.25,Credit,POS,Completed,Education
+1243,141,2025-02-04,248.64,Credit,UPI,Completed,Healthcare
+1244,131,2025-03-26,2016.05,Debit,UPI,Completed,Healthcare
+1245,131,2025-07-18,841.32,Debit,Internet Banking,Completed,Utilities
+1246,167,2025-05-27,2285.67,Credit,ATM,Completed,Utilities
+1247,11,2025-07-18,4032.95,Debit,POS,Completed,Dining
+1248,152,2025-06-05,1836.64,Debit,ATM,Completed,Cash
+1249,7,2025-06-08,111.18,Debit,POS,Failed,Healthcare
+1250,118,2025-07-20,3028.97,Credit,Mobile App,Completed,Utilities
+1251,1,2025-01-16,22143.32,Debit,POS,Completed,Travel
+1252,25,2025-01-28,17915.44,Debit,Internet Banking,Completed,Groceries
+1253,77,2025-01-18,11041.0,Credit,Mobile App,Completed,Groceries
+1254,122,2025-03-31,6721.91,Debit,Branch,Completed,Groceries
+1255,180,2025-10-16,2424.64,Credit,Mobile App,Completed,Transfer
+1256,111,2025-08-27,2091.5,Debit,POS,Completed,Shopping
+1257,185,2025-09-03,108905.32,Debit,Mobile App,Completed,Groceries
+1258,145,2025-08-11,19058.94,Debit,Branch,Completed,Utilities
+1259,154,2025-07-08,2308.47,Credit,Branch,Completed,Healthcare
+1260,105,2025-03-31,12442.2,Debit,POS,Completed,Cash
+1261,105,2025-07-04,4808.86,Debit,Internet Banking,Failed,Cash
+1262,175,2025-03-26,139787.34,Debit,UPI,Completed,Travel
+1263,218,2025-10-21,740.63,Debit,Mobile App,Completed,Cash
+1264,140,2025-01-22,2621.87,Credit,POS,Failed,Healthcare
+1265,126,2025-03-01,21729.38,Debit,ATM,Completed,Healthcare
+1266,192,2025-07-28,3454.61,Credit,POS,Completed,Groceries
+1267,204,2025-09-16,4009.68,Debit,Branch,Completed,Dining
+1268,139,2025-11-23,528.11,Credit,POS,Completed,Utilities
+1269,18,2025-05-10,2290.37,Debit,Branch,Completed,Education
+1270,96,2025-04-17,1553.74,Debit,Mobile App,Completed,Transfer
+1271,82,2025-06-29,203.65,Credit,Internet Banking,Completed,Healthcare
+1272,176,2025-09-09,12599.35,Debit,UPI,Completed,Utilities
+1273,22,2025-05-06,3635.18,Credit,UPI,Completed,Transfer
+1274,9,2025-06-15,1583.58,Credit,POS,Completed,Travel
+1275,152,2025-12-12,3915.13,Debit,UPI,Completed,Groceries
+1276,65,2025-10-27,632.46,Credit,Branch,Completed,Healthcare
+1277,110,2025-02-26,3449.7,Debit,POS,Completed,Travel
+1278,198,2025-07-12,267.18,Credit,POS,Completed,Transfer
+1279,207,2025-12-25,4742.8,Credit,Internet Banking,Pending,Transfer
+1280,94,2025-12-24,2178.37,Debit,Internet Banking,Completed,Groceries
+1281,72,2025-08-12,2808.54,Debit,Internet Banking,Failed,Education
+1282,130,2025-05-05,4537.75,Credit,Internet Banking,Completed,Cash
+1283,96,2025-10-13,1351.88,Credit,ATM,Completed,Dining
+1284,38,2025-06-03,709.41,Credit,UPI,Completed,Shopping
+1285,150,2025-09-29,22607.69,Credit,ATM,Completed,Transfer
+1286,123,2025-09-03,1109.91,Credit,ATM,Completed,Travel
+1287,131,2025-03-16,89173.07,Credit,POS,Completed,Education
+1288,215,2025-11-17,1840.53,Debit,Internet Banking,Completed,Groceries
+1289,50,2025-12-10,12473.64,Credit,Internet Banking,Completed,Cash
+1290,105,2025-11-27,4365.76,Credit,Internet Banking,Completed,Groceries
+1291,107,2025-02-03,19089.49,Debit,Internet Banking,Completed,Shopping
+1292,119,2025-11-29,4043.72,Debit,Internet Banking,Completed,Cash
+1293,125,2025-07-17,3799.22,Credit,Internet Banking,Completed,Healthcare
+1294,24,2025-12-21,2473.89,Debit,Branch,Completed,Shopping
+1295,153,2025-09-20,1177.82,Debit,ATM,Completed,Healthcare
+1296,133,2025-12-13,2087.12,Credit,POS,Completed,Shopping
+1297,49,2025-12-18,3445.6,Credit,Mobile App,Completed,Shopping
+1298,164,2025-05-07,1068.38,Debit,Branch,Completed,Dining
+1299,101,2025-09-05,3599.36,Credit,Branch,Completed,Utilities
+1300,97,2025-10-09,5065.34,Debit,UPI,Failed,Shopping
+1301,131,2025-10-18,2131.44,Credit,Internet Banking,Completed,Education
+1302,100,2025-06-10,8622.09,Credit,Branch,Completed,Utilities
+1303,141,2025-10-02,1378.65,Credit,Mobile App,Completed,Utilities
+1304,87,2025-11-16,3611.88,Debit,UPI,Completed,Healthcare
+1305,216,2025-05-02,800.93,Debit,ATM,Completed,Cash
+1306,158,2025-01-09,117557.01,Debit,Mobile App,Completed,Utilities
+1307,64,2025-07-28,1143.82,Credit,Mobile App,Completed,Dining
+1308,172,2025-06-07,2204.21,Credit,Internet Banking,Completed,Transfer
+1309,114,2025-03-18,3708.86,Debit,ATM,Completed,Transfer
+1310,112,2025-09-26,1744.33,Credit,Branch,Completed,Travel
+1311,181,2025-02-09,18978.58,Debit,Branch,Completed,Education
+1312,71,2025-05-08,22969.05,Credit,POS,Pending,Utilities
+1313,116,2025-01-12,1974.91,Debit,Mobile App,Completed,Education
+1314,66,2025-06-28,1181.36,Credit,Mobile App,Completed,Education
+1315,94,2025-01-25,3815.52,Credit,Branch,Completed,Utilities
+1316,135,2025-05-11,2292.85,Credit,Internet Banking,Failed,Shopping
+1317,43,2025-09-24,380.56,Credit,Branch,Completed,Cash
+1318,121,2025-08-05,4479.86,Credit,Mobile App,Completed,Shopping
+1319,210,2025-04-02,2693.07,Credit,ATM,Completed,Groceries
+1320,84,2025-03-29,3843.43,Credit,ATM,Completed,Groceries
+1321,121,2025-03-21,4240.36,Debit,ATM,Completed,Transfer
+1322,45,2025-12-30,9964.3,Debit,ATM,Completed,Groceries
+1323,74,2025-08-24,2668.02,Debit,POS,Completed,Cash
+1324,91,2025-11-07,2908.49,Credit,UPI,Failed,Transfer
+1325,33,2025-01-19,1074.12,Debit,Internet Banking,Completed,Education
+1326,77,2025-07-11,168.19,Credit,Internet Banking,Completed,Travel
+1327,167,2025-06-04,7846.31,Debit,Internet Banking,Completed,Transfer
+1328,96,2025-04-15,31418.28,Credit,Branch,Completed,Healthcare
+1329,14,2025-06-29,2352.19,Debit,UPI,Completed,Cash
+1330,123,2025-01-21,4673.19,Credit,Mobile App,Completed,Utilities
+1331,38,2025-12-31,2829.87,Debit,Internet Banking,Completed,Healthcare
+1332,205,2025-11-10,2328.44,Credit,Internet Banking,Completed,Transfer
+1333,111,2025-09-21,228.97,Credit,Internet Banking,Completed,Healthcare
+1334,170,2025-08-14,17704.09,Debit,Branch,Completed,Education
+1335,57,2025-01-22,267.87,Credit,Internet Banking,Completed,Cash
+1336,146,2025-05-11,4952.61,Debit,Mobile App,Completed,Dining
+1337,120,2025-03-26,4627.87,Debit,Internet Banking,Completed,Shopping
+1338,148,2025-10-13,2762.23,Credit,POS,Completed,Cash
+1339,175,2025-05-23,20565.92,Debit,Branch,Completed,Cash
+1340,77,2025-09-13,4865.17,Debit,Mobile App,Completed,Travel
+1341,143,2025-04-25,4230.22,Credit,POS,Completed,Cash
+1342,130,2025-07-05,2092.59,Debit,POS,Completed,Utilities
+1343,199,2025-06-10,4634.32,Credit,Branch,Completed,Healthcare
+1344,31,2025-06-07,86482.6,Debit,Internet Banking,Completed,Dining
+1345,74,2025-05-05,3072.33,Credit,Mobile App,Completed,Utilities
+1346,22,2025-01-05,13570.85,Credit,Mobile App,Completed,Groceries
+1347,121,2025-04-01,211.79,Debit,POS,Failed,Utilities
+1348,11,2025-03-26,4469.75,Credit,ATM,Reversed,Travel
+1349,101,2025-09-09,582.32,Debit,ATM,Completed,Utilities
+1350,119,2025-11-07,4269.36,Credit,POS,Completed,Shopping
+1351,9,2025-07-21,18300.17,Debit,Branch,Completed,Education
+1352,108,2025-05-01,3981.57,Credit,Mobile App,Completed,Utilities
+1353,16,2025-10-28,4381.95,Debit,Branch,Completed,Healthcare
+1354,149,2025-05-03,3607.27,Debit,POS,Failed,Dining
+1355,122,2025-12-02,217.49,Debit,Internet Banking,Completed,Travel
+1356,209,2025-09-12,24331.05,Debit,POS,Completed,Education
+1357,169,2025-06-11,4792.42,Credit,Branch,Completed,Education
+1358,24,2025-09-07,4383.83,Debit,Branch,Completed,Dining
+1359,185,2025-04-03,20417.2,Debit,Branch,Completed,Groceries
+1360,27,2025-09-05,3869.26,Debit,UPI,Completed,Education
+1361,136,2025-10-30,79367.21,Debit,POS,Completed,Cash
+1362,75,2025-10-03,4984.11,Credit,Internet Banking,Completed,Education
+1363,119,2025-11-08,2880.89,Credit,ATM,Completed,Shopping
+1364,102,2025-05-16,9584.42,Credit,Internet Banking,Completed,Groceries
+1365,20,2025-05-21,2699.53,Debit,UPI,Completed,Groceries
+1366,128,2025-10-25,1106.4,Debit,UPI,Completed,Healthcare
+1367,46,2025-10-07,3297.71,Debit,Mobile App,Completed,Utilities
+1368,34,2025-05-13,886.66,Credit,Branch,Completed,Utilities
+1369,196,2025-05-28,1581.99,Credit,Mobile App,Reversed,Dining
+1370,17,2025-05-19,4827.46,Debit,UPI,Completed,Utilities
+1371,124,2025-12-09,3091.11,Credit,UPI,Completed,Shopping
+1372,186,2025-01-10,17406.84,Credit,ATM,Reversed,Healthcare
+1373,42,2025-09-25,15696.18,Credit,Branch,Completed,Education
+1374,203,2025-08-10,562.67,Debit,UPI,Completed,Utilities
+1375,191,2025-04-27,4180.83,Debit,POS,Completed,Healthcare
+1376,51,2025-01-22,230.08,Debit,POS,Completed,Healthcare
+1377,107,2025-01-04,22240.14,Credit,UPI,Completed,Travel
+1378,122,2025-09-11,2790.25,Debit,ATM,Completed,Shopping
+1379,138,2025-08-06,1502.58,Credit,POS,Pending,Shopping
+1380,209,2025-07-14,131217.12,Debit,Mobile App,Pending,Transfer
+1381,79,2025-06-03,2064.01,Credit,UPI,Completed,Utilities
+1382,93,2025-02-28,10284.0,Credit,UPI,Completed,Utilities
+1383,60,2025-01-26,1418.75,Debit,UPI,Completed,Shopping
+1384,26,2025-07-26,3773.89,Debit,POS,Completed,Groceries
+1385,36,2025-02-05,23893.92,Debit,Internet Banking,Completed,Cash
+1386,28,2025-05-16,836.09,Credit,POS,Completed,Utilities
+1387,162,2025-01-09,19574.97,Credit,Internet Banking,Completed,Groceries
+1388,175,2025-09-25,16533.82,Credit,Mobile App,Completed,Education
+1389,55,2025-11-10,3351.07,Debit,UPI,Completed,Shopping
+1390,69,2025-05-08,3101.1,Credit,Mobile App,Completed,Education
+1391,152,2025-04-08,18826.0,Credit,ATM,Completed,Groceries
+1392,60,2025-05-08,3737.16,Credit,UPI,Completed,Groceries
+1393,167,2025-04-18,3600.32,Credit,ATM,Completed,Utilities
+1394,95,2025-06-16,4887.39,Credit,ATM,Completed,Education
+1395,91,2025-04-07,4356.26,Debit,Mobile App,Failed,Shopping
+1396,1,2025-08-10,2344.73,Debit,ATM,Completed,Education
+1397,29,2025-05-28,746.45,Credit,UPI,Completed,Transfer
+1398,90,2025-06-05,3239.04,Debit,Branch,Completed,Travel
+1399,123,2025-04-23,2218.74,Credit,Mobile App,Completed,Shopping
+1400,185,2025-07-09,2634.04,Debit,Mobile App,Completed,Utilities
+1401,146,2025-02-24,10656.27,Credit,POS,Completed,Transfer
+1402,136,2025-01-02,5391.4,Debit,Mobile App,Completed,Transfer
+1403,50,2025-04-06,586.91,Credit,POS,Completed,Education
+1404,172,2025-11-05,2847.82,Debit,Mobile App,Completed,Healthcare
+1405,92,2025-08-30,3806.69,Credit,Mobile App,Completed,Travel
+1406,60,2025-07-30,76544.98,Debit,POS,Completed,Travel
+1407,57,2025-04-20,6937.12,Debit,POS,Completed,Transfer
+1408,54,2025-02-17,9734.19,Credit,Mobile App,Completed,Transfer
+1409,177,2025-05-22,2728.32,Credit,Internet Banking,Completed,Healthcare
+1410,26,2025-02-15,2543.32,Debit,Internet Banking,Completed,Cash
+1411,179,2025-03-26,183.15,Credit,ATM,Completed,Dining
+1412,189,2025-01-24,3675.58,Debit,ATM,Completed,Travel
+1413,9,2025-03-02,19481.24,Debit,ATM,Completed,Utilities
+1414,214,2025-03-23,2394.96,Debit,Mobile App,Completed,Utilities
+1415,196,2025-03-22,1098.34,Debit,POS,Completed,Cash
+1416,183,2025-10-12,4424.95,Debit,Internet Banking,Pending,Travel
+1417,213,2025-11-01,2687.6,Debit,Branch,Completed,Healthcare
+1418,67,2025-11-07,1110.03,Debit,UPI,Completed,Transfer
+1419,24,2025-10-25,620.97,Credit,UPI,Completed,Transfer
+1420,102,2025-11-29,2924.28,Credit,ATM,Completed,Dining
+1421,13,2025-09-18,4298.6,Credit,Branch,Completed,Shopping
+1422,86,2025-10-09,8566.2,Credit,POS,Completed,Utilities
+1423,133,2025-03-17,3142.96,Debit,Internet Banking,Completed,Travel
+1424,175,2025-05-22,4964.12,Credit,POS,Completed,Groceries
+1425,22,2025-06-15,866.37,Debit,Mobile App,Completed,Transfer
+1426,201,2025-10-03,103855.75,Credit,Branch,Completed,Healthcare
+1427,98,2025-12-11,23285.18,Credit,UPI,Completed,Travel
+1428,154,2025-12-09,14535.57,Credit,Branch,Completed,Cash
+1429,160,2025-01-22,1604.86,Credit,Mobile App,Completed,Shopping
+1430,63,2025-07-13,1759.49,Debit,Internet Banking,Completed,Utilities
+1431,61,2025-07-31,788.9,Debit,Branch,Completed,Travel
+1432,201,2025-10-23,1907.86,Credit,ATM,Completed,Education
+1433,155,2025-11-11,2813.4,Credit,ATM,Completed,Utilities
+1434,16,2025-05-18,4019.87,Credit,Branch,Completed,Shopping
+1435,165,2025-04-01,2760.01,Credit,UPI,Completed,Utilities
+1436,103,2025-05-18,1249.02,Credit,UPI,Completed,Shopping
+1437,105,2025-06-02,9854.32,Debit,ATM,Completed,Utilities
+1438,80,2025-05-09,456.73,Debit,ATM,Reversed,Healthcare
+1439,193,2025-07-11,3800.41,Debit,Branch,Completed,Cash
+1440,175,2025-04-06,1504.47,Debit,Branch,Completed,Education
+1441,203,2025-05-24,4322.27,Credit,ATM,Failed,Utilities
+1442,95,2025-05-04,47306.83,Credit,Internet Banking,Completed,Groceries
+1443,173,2025-12-19,104885.16,Credit,ATM,Completed,Dining
+1444,196,2025-07-01,15524.25,Credit,ATM,Completed,Utilities
+1445,24,2025-02-18,14094.88,Credit,UPI,Completed,Dining
+1446,62,2025-10-31,502.52,Credit,Mobile App,Completed,Education
+1447,219,2025-01-18,3630.64,Debit,Internet Banking,Completed,Utilities
+1448,119,2025-09-14,4298.97,Credit,ATM,Completed,Groceries
+1449,208,2025-01-16,2951.15,Credit,ATM,Completed,Education
+1450,86,2025-08-30,14947.03,Debit,Mobile App,Completed,Dining
+1451,101,2025-07-08,3068.23,Credit,UPI,Completed,Shopping
+1452,28,2025-10-04,1496.61,Credit,Internet Banking,Completed,Dining
+1453,44,2025-03-22,4710.92,Debit,Branch,Completed,Education
+1454,20,2025-02-17,5729.66,Debit,POS,Completed,Groceries
+1455,213,2025-07-07,3170.87,Debit,POS,Completed,Groceries
+1456,133,2025-12-22,19926.86,Credit,Mobile App,Failed,Cash
+1457,53,2025-07-04,22690.79,Credit,POS,Completed,Transfer
+1458,19,2025-06-14,9257.07,Debit,Branch,Completed,Groceries
+1459,210,2025-08-09,2569.93,Debit,UPI,Completed,Travel
+1460,160,2025-04-18,61300.1,Debit,UPI,Completed,Groceries
+1461,204,2025-09-28,4926.48,Credit,Internet Banking,Completed,Groceries
+1462,55,2025-04-30,3243.42,Credit,UPI,Completed,Groceries
+1463,130,2025-07-08,4966.29,Credit,POS,Completed,Transfer
+1464,66,2025-10-26,4046.26,Debit,UPI,Failed,Education
+1465,200,2025-12-03,1517.24,Debit,Mobile App,Completed,Cash
+1466,76,2025-03-16,73012.36,Debit,UPI,Completed,Utilities
+1467,76,2025-01-11,22746.77,Credit,ATM,Completed,Utilities
+1468,48,2025-04-25,1507.44,Credit,Internet Banking,Completed,Groceries
+1469,143,2025-08-31,817.25,Debit,ATM,Completed,Dining
+1470,80,2025-10-15,4718.01,Debit,POS,Completed,Dining
+1471,134,2025-03-12,16223.07,Credit,Branch,Completed,Education
+1472,170,2025-03-02,4908.91,Credit,Internet Banking,Completed,Healthcare
+1473,140,2025-12-13,775.73,Debit,Internet Banking,Completed,Utilities
+1474,213,2025-04-21,123.92,Credit,ATM,Completed,Cash
+1475,81,2025-10-20,23476.52,Debit,UPI,Completed,Travel
+1476,62,2025-10-28,3991.6,Credit,ATM,Completed,Transfer
+1477,193,2025-04-25,54.84,Debit,Mobile App,Completed,Groceries
+1478,30,2025-07-18,6501.13,Credit,Mobile App,Completed,Utilities
+1479,97,2025-09-28,327.13,Debit,Mobile App,Completed,Transfer
+1480,105,2025-04-01,133980.08,Credit,Mobile App,Completed,Healthcare
+1481,57,2025-11-23,1435.01,Credit,Mobile App,Completed,Transfer
+1482,36,2025-07-26,3826.68,Credit,POS,Completed,Transfer
+1483,186,2025-11-17,140386.26,Credit,Branch,Completed,Groceries
+1484,102,2025-09-26,3389.43,Credit,ATM,Completed,Healthcare
+1485,92,2025-03-29,1052.96,Debit,Mobile App,Failed,Dining
+1486,218,2025-03-26,3406.26,Debit,ATM,Completed,Cash
+1487,172,2025-06-12,705.16,Credit,Internet Banking,Completed,Utilities
+1488,171,2025-10-07,31148.03,Debit,Mobile App,Completed,Travel
+1489,102,2025-05-31,2575.83,Credit,Internet Banking,Reversed,Dining
+1490,175,2025-05-09,12967.19,Debit,POS,Completed,Cash
+1491,44,2025-04-06,21679.16,Credit,Mobile App,Completed,Dining
+1492,67,2025-09-23,4656.4,Debit,ATM,Completed,Education
+1493,212,2025-04-29,15787.2,Debit,Internet Banking,Completed,Groceries
+1494,87,2025-04-28,2883.51,Debit,Internet Banking,Completed,Utilities
+1495,117,2025-09-02,3515.55,Credit,Mobile App,Completed,Healthcare
+1496,196,2025-01-02,1911.78,Debit,Branch,Completed,Travel
+1497,23,2025-07-21,3409.8,Credit,POS,Reversed,Shopping
+1498,104,2025-10-19,6457.24,Credit,Branch,Completed,Education
+1499,117,2025-11-01,4776.71,Debit,UPI,Completed,Groceries
+1500,41,2025-03-06,4466.27,Credit,POS,Completed,Cash
+1501,111,2025-11-03,3597.92,Debit,POS,Completed,Cash
+1502,142,2025-11-19,376.79,Credit,POS,Completed,Transfer
+1503,24,2025-07-02,4622.06,Credit,Mobile App,Completed,Transfer
+1504,71,2025-07-14,3912.23,Debit,UPI,Pending,Cash
+1505,127,2025-07-16,2732.79,Credit,ATM,Completed,Healthcare
+1506,133,2025-10-23,1020.96,Credit,Internet Banking,Completed,Travel
+1507,175,2025-11-17,12373.62,Debit,Internet Banking,Completed,Education
+1508,187,2025-11-14,1692.79,Credit,POS,Completed,Healthcare
+1509,219,2025-07-11,1378.2,Credit,Branch,Completed,Shopping
+1510,48,2025-11-23,24032.8,Debit,ATM,Completed,Dining
+1511,140,2025-10-21,4675.95,Debit,ATM,Completed,Cash
+1512,195,2025-06-22,47237.32,Credit,Internet Banking,Completed,Dining
+1513,178,2025-04-24,1749.46,Credit,UPI,Completed,Education
+1514,95,2025-07-07,89866.87,Debit,Mobile App,Failed,Healthcare
+1515,194,2025-09-07,3876.37,Credit,POS,Completed,Cash
+1516,212,2025-10-23,418.82,Credit,UPI,Completed,Healthcare
+1517,149,2025-05-01,1382.21,Debit,Branch,Completed,Transfer
+1518,28,2025-06-17,4146.62,Credit,Internet Banking,Completed,Transfer
+1519,187,2025-09-26,532.02,Debit,ATM,Completed,Utilities
+1520,73,2025-02-14,224.2,Credit,POS,Failed,Cash
+1521,122,2025-10-15,347.7,Credit,ATM,Completed,Cash
+1522,135,2025-10-13,4289.44,Debit,Internet Banking,Completed,Groceries
+1523,84,2025-10-26,2556.88,Credit,ATM,Completed,Transfer
+1524,181,2025-06-22,2575.53,Debit,Branch,Completed,Healthcare
+1525,202,2025-12-31,4215.8,Credit,Mobile App,Completed,Education
+1526,86,2025-01-14,723.82,Debit,POS,Completed,Dining
+1527,151,2025-11-28,4398.12,Credit,Branch,Completed,Healthcare
+1528,18,2025-04-17,77.57,Credit,POS,Completed,Utilities
+1529,73,2025-06-05,1457.6,Debit,ATM,Completed,Transfer
+1530,218,2025-12-20,4952.79,Debit,POS,Completed,Education
+1531,39,2025-01-04,21919.27,Debit,ATM,Failed,Utilities
+1532,135,2025-04-22,8457.48,Credit,Mobile App,Completed,Travel
+1533,52,2025-11-07,758.9,Debit,POS,Completed,Groceries
+1534,24,2025-09-24,10247.81,Credit,UPI,Completed,Travel
+1535,197,2025-08-30,2049.93,Debit,Internet Banking,Completed,Transfer
+1536,83,2025-05-14,3746.79,Credit,Branch,Completed,Travel
+1537,159,2025-02-16,2579.09,Credit,POS,Completed,Utilities
+1538,101,2025-01-28,2769.4,Credit,Internet Banking,Completed,Dining
+1539,51,2025-08-15,3946.7,Credit,Branch,Pending,Travel
+1540,45,2025-03-21,16337.49,Credit,POS,Completed,Education
+1541,205,2025-06-17,3303.37,Credit,ATM,Completed,Healthcare
+1542,168,2025-07-06,9890.42,Debit,Branch,Completed,Education
+1543,32,2025-09-08,3637.69,Debit,Branch,Completed,Dining
+1544,6,2025-10-20,97201.12,Credit,ATM,Completed,Transfer
+1545,155,2025-10-26,2222.04,Credit,POS,Completed,Transfer
+1546,195,2025-09-27,19375.29,Credit,UPI,Completed,Cash
+1547,133,2025-05-05,109402.58,Debit,Internet Banking,Completed,Groceries
+1548,141,2025-04-07,907.67,Debit,UPI,Completed,Cash
+1549,130,2025-10-19,18671.95,Debit,ATM,Completed,Dining
+1550,164,2025-10-01,6217.62,Credit,ATM,Reversed,Groceries
+1551,72,2025-06-04,1219.62,Debit,Mobile App,Completed,Transfer
+1552,18,2025-06-27,8260.09,Credit,Mobile App,Completed,Travel
+1553,165,2025-10-23,23537.24,Credit,Branch,Completed,Dining
+1554,123,2025-05-22,3286.09,Credit,UPI,Completed,Education
+1555,121,2025-02-12,36616.15,Credit,POS,Completed,Travel
+1556,188,2025-03-19,8148.09,Debit,Internet Banking,Pending,Travel
+1557,14,2025-02-28,3048.89,Credit,ATM,Completed,Groceries
+1558,31,2025-11-13,3622.27,Debit,ATM,Failed,Dining
+1559,160,2025-04-20,233.26,Credit,Internet Banking,Completed,Shopping
+1560,199,2025-09-24,562.97,Debit,POS,Completed,Cash
+1561,36,2025-06-22,4306.23,Debit,ATM,Completed,Groceries
+1562,216,2025-10-30,1008.59,Credit,POS,Completed,Groceries
+1563,207,2025-04-20,16377.4,Credit,Mobile App,Completed,Dining
+1564,117,2025-03-02,752.3,Debit,Branch,Completed,Travel
+1565,55,2025-01-14,1333.82,Debit,Mobile App,Completed,Education
+1566,32,2025-07-05,3090.54,Credit,Internet Banking,Completed,Utilities
+1567,111,2025-08-07,4316.72,Credit,Branch,Completed,Healthcare
+1568,67,2025-03-23,4147.45,Debit,Mobile App,Completed,Dining
+1569,16,2025-03-05,138137.03,Debit,Branch,Completed,Education
+1570,202,2025-06-07,12417.76,Debit,Internet Banking,Completed,Travel
+1571,64,2025-05-09,2423.88,Credit,Mobile App,Completed,Cash
+1572,16,2025-03-02,3996.43,Debit,UPI,Failed,Dining
+1573,26,2025-08-19,2023.26,Credit,UPI,Completed,Utilities
+1574,208,2025-12-10,7148.04,Debit,POS,Completed,Groceries
+1575,119,2025-02-13,1017.65,Credit,Branch,Completed,Utilities
+1576,13,2025-05-28,1837.55,Credit,Mobile App,Completed,Dining
+1577,7,2025-01-09,2847.4,Debit,POS,Completed,Education
+1578,153,2025-05-10,2506.06,Credit,UPI,Reversed,Education
+1579,41,2025-08-14,4613.75,Debit,UPI,Completed,Utilities
+1580,135,2025-05-04,4161.93,Debit,Internet Banking,Pending,Education
+1581,26,2025-06-09,4827.15,Debit,UPI,Completed,Transfer
+1582,171,2025-08-28,665.4,Credit,POS,Completed,Shopping
+1583,147,2025-01-02,1609.48,Debit,UPI,Completed,Cash
+1584,10,2025-10-29,21602.62,Debit,POS,Completed,Dining
+1585,166,2025-02-03,16806.34,Debit,Mobile App,Completed,Education
+1586,98,2025-02-20,784.78,Credit,ATM,Completed,Travel
+1587,196,2025-06-15,2212.62,Debit,UPI,Completed,Utilities
+1588,157,2025-08-17,4044.72,Credit,Mobile App,Completed,Dining
+1589,120,2025-01-27,2602.08,Credit,ATM,Completed,Groceries
+1590,162,2025-12-05,6901.56,Credit,ATM,Failed,Healthcare
+1591,176,2025-12-26,16431.25,Debit,ATM,Completed,Utilities
+1592,22,2025-08-16,4814.47,Credit,Mobile App,Pending,Cash
+1593,103,2025-05-14,1555.36,Debit,UPI,Completed,Cash
+1594,189,2025-04-30,2876.88,Credit,Mobile App,Completed,Groceries
+1595,67,2025-10-04,281.77,Credit,Internet Banking,Completed,Utilities
+1596,77,2025-11-01,20292.19,Debit,POS,Completed,Shopping
+1597,203,2025-03-26,3019.51,Debit,UPI,Completed,Transfer
+1598,171,2025-11-22,5862.69,Credit,UPI,Completed,Education
+1599,29,2025-07-01,2164.39,Credit,Branch,Completed,Education
+1600,91,2025-02-24,14204.79,Debit,ATM,Completed,Shopping
+1601,164,2025-01-24,4429.6,Debit,UPI,Completed,Dining
+1602,185,2025-05-16,4681.0,Debit,Mobile App,Completed,Travel
+1603,144,2025-06-23,555.94,Debit,Branch,Completed,Cash
+1604,140,2025-03-06,24353.23,Debit,UPI,Completed,Cash
+1605,59,2025-11-11,253.39,Debit,UPI,Completed,Utilities
+1606,109,2025-01-12,3135.03,Credit,Branch,Completed,Travel
+1607,211,2025-04-15,7159.21,Debit,ATM,Completed,Dining
+1608,12,2025-05-11,15220.87,Credit,Branch,Completed,Shopping
+1609,193,2025-06-04,2503.18,Credit,POS,Completed,Shopping
+1610,71,2025-01-15,3949.1,Credit,UPI,Completed,Travel
+1611,180,2025-05-13,2993.01,Credit,Internet Banking,Completed,Transfer
+1612,214,2025-10-10,770.03,Credit,ATM,Completed,Healthcare
+1613,160,2025-04-05,4599.63,Credit,POS,Completed,Education
+1614,179,2025-11-13,2770.28,Credit,Branch,Completed,Healthcare
+1615,151,2025-05-14,4895.54,Credit,Mobile App,Completed,Transfer
+1616,93,2025-05-07,3500.1,Credit,Internet Banking,Completed,Groceries
+1617,59,2025-11-02,2712.2,Debit,POS,Completed,Travel
+1618,26,2025-09-21,2917.38,Credit,UPI,Completed,Shopping
+1619,207,2025-03-11,1528.63,Debit,POS,Failed,Shopping
+1620,202,2025-10-13,3086.28,Credit,Mobile App,Completed,Shopping
+1621,81,2025-08-05,4332.63,Debit,Branch,Completed,Healthcare
+1622,57,2025-04-09,3917.23,Debit,Branch,Completed,Education
+1623,98,2025-03-08,8686.51,Debit,POS,Completed,Healthcare
+1624,155,2025-11-08,23507.05,Credit,Mobile App,Completed,Travel
+1625,39,2025-05-31,81490.79,Debit,Branch,Completed,Education
+1626,35,2025-06-11,3085.7,Credit,Mobile App,Completed,Healthcare
+1627,219,2025-09-15,4085.66,Credit,UPI,Reversed,Groceries
+1628,28,2025-08-31,2964.61,Credit,Mobile App,Completed,Travel
+1629,148,2025-11-01,12167.3,Debit,Internet Banking,Failed,Travel
+1630,184,2025-07-29,3973.02,Credit,ATM,Completed,Groceries
+1631,53,2025-09-28,1293.58,Debit,UPI,Completed,Groceries
+1632,119,2025-10-11,46100.45,Credit,Branch,Failed,Travel
+1633,32,2025-12-10,20023.57,Debit,Mobile App,Completed,Groceries
+1634,174,2025-08-08,1309.6,Credit,Mobile App,Completed,Utilities
+1635,36,2025-04-10,19258.5,Debit,POS,Completed,Utilities
+1636,116,2025-08-13,4510.79,Credit,Internet Banking,Completed,Travel
+1637,8,2025-04-09,4344.67,Debit,Branch,Completed,Groceries
+1638,168,2025-10-05,350.85,Credit,Branch,Completed,Healthcare
+1639,183,2025-11-22,149291.24,Credit,Branch,Completed,Dining
+1640,85,2025-04-28,5236.31,Credit,UPI,Completed,Utilities
+1641,184,2025-07-22,2230.68,Credit,Branch,Completed,Shopping
+1642,66,2025-12-10,10233.06,Debit,POS,Completed,Utilities
+1643,122,2025-11-05,3116.73,Debit,ATM,Completed,Utilities
+1644,38,2025-10-02,15046.78,Debit,UPI,Completed,Cash
+1645,132,2025-03-21,4429.76,Debit,UPI,Reversed,Travel
+1646,215,2025-09-03,568.04,Credit,POS,Completed,Cash
+1647,192,2025-07-15,3566.84,Credit,UPI,Completed,Transfer
+1648,42,2025-09-24,37900.42,Debit,Mobile App,Reversed,Education
+1649,210,2025-03-22,4721.32,Credit,POS,Completed,Cash
+1650,55,2025-03-27,771.24,Credit,Mobile App,Completed,Utilities
+1651,178,2025-09-25,13679.41,Debit,POS,Completed,Education
+1652,32,2025-01-06,2761.32,Credit,POS,Completed,Dining
+1653,142,2025-05-29,4646.35,Credit,Internet Banking,Completed,Shopping
+1654,108,2025-10-09,8899.75,Credit,Mobile App,Completed,Groceries
+1655,51,2025-01-09,2312.37,Debit,Branch,Completed,Education
+1656,113,2025-02-08,1690.47,Debit,Internet Banking,Completed,Shopping
+1657,24,2025-02-07,114.56,Credit,POS,Completed,Dining
+1658,73,2025-01-01,4048.43,Debit,UPI,Failed,Transfer
+1659,11,2025-09-25,3095.12,Credit,Branch,Completed,Cash
+1660,37,2025-07-13,2694.76,Credit,UPI,Completed,Dining
+1661,139,2025-08-10,2812.25,Debit,UPI,Completed,Utilities
+1662,94,2025-01-16,1886.43,Debit,Internet Banking,Completed,Groceries
+1663,178,2025-11-01,1221.9,Debit,Internet Banking,Completed,Cash
+1664,148,2025-10-14,26836.57,Credit,UPI,Completed,Healthcare
+1665,36,2025-02-07,88812.1,Debit,Internet Banking,Completed,Shopping
+1666,181,2025-02-16,3371.27,Credit,UPI,Completed,Cash
+1667,38,2025-05-24,504.92,Credit,ATM,Completed,Transfer
+1668,86,2025-09-20,13985.58,Debit,POS,Failed,Healthcare
+1669,69,2025-03-09,570.92,Credit,Branch,Completed,Education
+1670,200,2025-09-16,21898.44,Credit,POS,Completed,Groceries
+1671,188,2025-01-26,12985.97,Credit,Internet Banking,Completed,Travel
+1672,55,2025-03-11,1428.31,Debit,POS,Failed,Shopping
+1673,2,2025-01-30,15403.41,Debit,POS,Completed,Transfer
+1674,62,2025-02-16,13393.71,Debit,Mobile App,Failed,Transfer
+1675,17,2025-01-31,23859.42,Credit,UPI,Completed,Healthcare
+1676,1,2025-11-09,125907.79,Debit,ATM,Completed,Education
+1677,21,2025-01-23,9548.26,Credit,ATM,Completed,Groceries
+1678,9,2025-08-25,400.86,Debit,POS,Pending,Utilities
+1679,130,2025-10-21,3936.78,Credit,UPI,Completed,Cash
+1680,120,2025-07-31,2985.84,Debit,Branch,Completed,Transfer
+1681,197,2025-03-01,19654.05,Credit,Internet Banking,Completed,Dining
+1682,207,2025-06-09,6652.85,Debit,Branch,Completed,Groceries
+1683,40,2025-06-30,3884.68,Debit,ATM,Completed,Healthcare
+1684,113,2025-05-12,22626.18,Credit,Internet Banking,Completed,Shopping
+1685,140,2025-08-11,242.64,Debit,Branch,Reversed,Cash
+1686,129,2025-04-10,2758.45,Debit,Internet Banking,Failed,Travel
+1687,139,2025-01-25,6061.46,Debit,Branch,Completed,Transfer
+1688,159,2025-06-21,1794.57,Credit,UPI,Completed,Groceries
+1689,139,2025-06-20,4516.45,Credit,POS,Completed,Utilities
+1690,60,2025-02-21,4757.66,Credit,ATM,Completed,Healthcare
+1691,207,2025-06-01,3535.59,Credit,Internet Banking,Completed,Healthcare
+1692,60,2025-06-11,4096.98,Credit,Mobile App,Completed,Travel
+1693,47,2025-08-13,4510.53,Credit,ATM,Pending,Education
+1694,195,2025-12-25,4598.92,Credit,Branch,Completed,Shopping
+1695,113,2025-11-21,4458.45,Credit,Internet Banking,Completed,Dining
+1696,217,2025-03-08,16014.89,Debit,POS,Completed,Groceries
+1697,60,2025-12-08,3767.43,Credit,Branch,Pending,Groceries
+1698,53,2025-12-20,4491.45,Credit,Internet Banking,Completed,Groceries
+1699,130,2025-11-10,3508.71,Credit,ATM,Completed,Healthcare
+1700,158,2025-11-12,24196.89,Debit,POS,Completed,Healthcare
+1701,38,2025-01-24,32415.61,Credit,POS,Completed,Groceries
+1702,102,2025-10-20,2170.94,Debit,Internet Banking,Completed,Shopping
+1703,12,2025-12-23,4482.42,Credit,POS,Completed,Dining
+1704,146,2025-05-28,18977.79,Debit,Internet Banking,Completed,Transfer
+1705,97,2025-03-22,1704.16,Debit,ATM,Completed,Education
+1706,81,2025-05-11,693.54,Credit,POS,Completed,Travel
+1707,170,2025-10-21,3527.16,Credit,Mobile App,Completed,Groceries
+1708,147,2025-01-21,3233.6,Debit,UPI,Completed,Shopping
+1709,63,2025-01-08,799.76,Credit,UPI,Completed,Groceries
+1710,73,2025-12-14,1705.83,Debit,Branch,Completed,Travel
+1711,23,2025-03-29,2987.42,Credit,Internet Banking,Completed,Travel
+1712,205,2025-01-05,4429.48,Debit,Internet Banking,Completed,Groceries
+1713,178,2025-11-02,23146.62,Credit,POS,Completed,Cash
+1714,2,2025-04-03,985.77,Credit,Mobile App,Completed,Healthcare
+1715,135,2025-03-05,2635.16,Debit,Mobile App,Completed,Utilities
+1716,129,2025-08-12,1096.61,Debit,UPI,Completed,Transfer
+1717,177,2025-08-29,879.02,Debit,ATM,Completed,Transfer
+1718,137,2025-12-25,3039.18,Debit,ATM,Failed,Cash
+1719,71,2025-06-19,4809.15,Credit,POS,Completed,Transfer
+1720,42,2025-01-01,317.17,Credit,ATM,Completed,Travel
+1721,16,2025-05-10,488.97,Credit,Mobile App,Completed,Education
+1722,93,2025-10-23,3032.1,Credit,ATM,Completed,Groceries
+1723,163,2025-04-17,4894.44,Credit,POS,Completed,Transfer
+1724,128,2025-07-03,4259.91,Credit,ATM,Completed,Cash
+1725,24,2025-08-02,1710.55,Credit,Branch,Completed,Dining
+1726,213,2025-08-14,2311.74,Credit,Mobile App,Completed,Groceries
+1727,167,2025-03-24,6793.18,Credit,Internet Banking,Pending,Shopping
+1728,97,2025-11-08,97755.04,Credit,Branch,Completed,Dining
+1729,216,2025-10-05,4114.83,Credit,Mobile App,Completed,Education
+1730,125,2025-01-08,2530.38,Debit,Internet Banking,Completed,Groceries
+1731,99,2025-04-30,3517.11,Debit,Mobile App,Completed,Shopping
+1732,149,2025-05-27,3905.07,Debit,ATM,Pending,Shopping
+1733,155,2025-04-07,3600.53,Credit,Internet Banking,Completed,Dining
+1734,34,2025-03-28,1957.43,Debit,ATM,Pending,Education
+1735,171,2025-03-12,4602.19,Credit,Mobile App,Completed,Cash
+1736,218,2025-09-20,3199.35,Credit,POS,Reversed,Education
+1737,38,2025-11-24,1238.51,Debit,Branch,Completed,Dining
+1738,52,2025-10-14,41747.24,Debit,ATM,Reversed,Healthcare
+1739,171,2025-01-30,55690.32,Credit,POS,Failed,Dining
+1740,20,2025-02-10,3546.71,Debit,Branch,Completed,Transfer
+1741,200,2025-07-19,4584.88,Debit,POS,Completed,Healthcare
+1742,52,2025-07-04,95539.71,Debit,POS,Completed,Cash
+1743,98,2025-02-02,2182.99,Credit,UPI,Completed,Groceries
+1744,147,2025-06-20,4630.2,Debit,ATM,Completed,Education
+1745,153,2025-03-15,1649.33,Credit,Mobile App,Completed,Dining
+1746,4,2025-08-21,10523.68,Credit,Branch,Completed,Travel
+1747,99,2025-03-04,149712.03,Credit,ATM,Completed,Travel
+1748,107,2025-03-01,11334.7,Debit,ATM,Completed,Transfer
+1749,58,2025-02-23,4807.2,Credit,Internet Banking,Completed,Cash
+1750,211,2025-07-02,4602.78,Credit,UPI,Completed,Shopping
+1751,82,2025-03-22,21312.91,Debit,Branch,Completed,Shopping
+1752,217,2025-12-15,3269.91,Credit,POS,Completed,Groceries
+1753,178,2025-09-28,2084.06,Debit,Internet Banking,Completed,Travel
+1754,148,2025-08-09,2031.51,Credit,POS,Completed,Groceries
+1755,196,2025-11-19,21305.82,Debit,Branch,Completed,Cash
+1756,169,2025-01-24,230.01,Credit,Branch,Completed,Travel
+1757,82,2025-08-26,3329.71,Credit,ATM,Completed,Education
+1758,136,2025-11-18,3485.93,Debit,UPI,Completed,Healthcare
+1759,90,2025-12-30,20511.31,Credit,UPI,Completed,Transfer
+1760,201,2025-05-07,1752.65,Credit,ATM,Completed,Travel
+1761,44,2025-03-19,3217.69,Credit,Mobile App,Completed,Shopping
+1762,94,2025-08-31,3471.39,Credit,ATM,Completed,Education
+1763,110,2025-02-14,2561.02,Debit,Mobile App,Completed,Cash
+1764,48,2025-07-19,3055.31,Credit,Internet Banking,Completed,Groceries
+1765,26,2025-01-08,2482.39,Credit,UPI,Failed,Cash
+1766,162,2025-04-04,24273.15,Debit,UPI,Completed,Shopping
+1767,200,2025-07-26,2418.46,Credit,POS,Completed,Travel
+1768,37,2025-03-24,15167.17,Credit,Branch,Completed,Cash
+1769,172,2025-10-17,813.7,Debit,Internet Banking,Completed,Groceries
+1770,97,2025-04-04,4114.21,Debit,ATM,Completed,Transfer
+1771,205,2025-05-06,380.01,Debit,Branch,Completed,Utilities
+1772,212,2025-05-01,81.25,Credit,POS,Completed,Cash
+1773,83,2025-03-18,117.08,Credit,UPI,Completed,Shopping
+1774,170,2025-07-24,1184.73,Debit,Internet Banking,Completed,Groceries
+1775,93,2025-06-13,1294.56,Credit,Internet Banking,Completed,Shopping
+1776,19,2025-02-09,2852.82,Credit,UPI,Completed,Education
+1777,152,2025-04-19,14017.19,Credit,ATM,Completed,Groceries
+1778,65,2025-03-28,2201.25,Credit,ATM,Completed,Utilities
+1779,39,2025-06-07,9035.71,Debit,Internet Banking,Completed,Cash
+1780,146,2025-11-28,2296.82,Debit,Internet Banking,Completed,Transfer
+1781,60,2025-02-10,3999.55,Credit,Internet Banking,Completed,Healthcare
+1782,179,2025-10-23,4820.98,Credit,POS,Completed,Shopping
+1783,52,2025-03-01,3032.96,Debit,ATM,Completed,Dining
+1784,32,2025-03-16,7421.03,Debit,Internet Banking,Completed,Shopping
+1785,73,2025-10-16,3218.42,Credit,Internet Banking,Completed,Cash
+1786,119,2025-07-22,1565.54,Debit,UPI,Completed,Transfer
+1787,80,2025-02-15,2127.96,Debit,Branch,Reversed,Groceries
+1788,6,2025-07-28,1259.11,Debit,Branch,Completed,Education
+1789,158,2025-04-06,4816.29,Credit,UPI,Completed,Education
+1790,58,2025-06-14,18894.43,Debit,Mobile App,Completed,Travel
+1791,136,2025-03-24,2340.23,Debit,UPI,Completed,Shopping
+1792,135,2025-11-14,4257.2,Debit,Internet Banking,Completed,Education
+1793,64,2025-06-02,134332.38,Credit,Branch,Completed,Shopping
+1794,202,2025-02-07,3968.95,Credit,UPI,Completed,Dining
+1795,214,2025-12-28,4726.51,Debit,Internet Banking,Completed,Shopping
+1796,5,2025-09-27,3807.4,Debit,UPI,Completed,Education
+1797,33,2025-11-06,3628.6,Debit,Mobile App,Completed,Dining
+1798,41,2025-02-23,4838.32,Credit,Mobile App,Completed,Transfer
+1799,195,2025-01-23,2420.7,Debit,Branch,Completed,Healthcare
+1800,121,2025-10-27,702.96,Debit,Branch,Completed,Education
+1801,17,2025-03-17,3631.5,Debit,Mobile App,Completed,Travel
+1802,200,2025-02-28,1060.0,Debit,ATM,Completed,Healthcare
+1803,150,2025-06-22,3158.62,Credit,UPI,Completed,Dining
+1804,18,2025-05-14,3543.79,Credit,Mobile App,Completed,Utilities
+1805,58,2025-10-05,5961.16,Debit,ATM,Completed,Travel
+1806,9,2025-05-08,1014.77,Credit,Branch,Completed,Dining
+1807,170,2025-08-19,3585.32,Credit,Mobile App,Completed,Cash
+1808,203,2025-11-30,19156.93,Credit,ATM,Completed,Utilities
+1809,166,2025-12-06,4862.78,Credit,Branch,Completed,Dining
+1810,216,2025-06-13,9567.62,Credit,ATM,Failed,Cash
+1811,157,2025-05-24,2139.52,Credit,ATM,Completed,Dining
+1812,35,2025-09-24,4970.38,Debit,UPI,Completed,Utilities
+1813,56,2025-04-15,4395.18,Credit,POS,Completed,Utilities
+1814,172,2025-08-08,3927.4,Debit,UPI,Completed,Healthcare
+1815,193,2025-06-11,1283.16,Credit,ATM,Completed,Dining
+1816,189,2025-10-25,2802.84,Credit,Mobile App,Completed,Travel
+1817,139,2025-06-01,23930.96,Credit,Mobile App,Completed,Transfer
+1818,184,2025-03-25,4790.18,Debit,POS,Completed,Education
+1819,213,2025-05-13,116205.91,Debit,POS,Completed,Transfer
+1820,83,2025-05-14,17445.97,Debit,Mobile App,Completed,Education
+1821,93,2025-11-24,2731.04,Credit,Branch,Completed,Cash
+1822,17,2025-04-03,819.98,Debit,Internet Banking,Completed,Cash
+1823,73,2025-12-31,117437.2,Credit,Internet Banking,Completed,Utilities
+1824,204,2025-04-06,543.66,Credit,ATM,Completed,Healthcare
+1825,177,2025-10-11,2108.85,Credit,Internet Banking,Completed,Groceries
+1826,212,2025-09-06,1492.17,Credit,UPI,Completed,Shopping
+1827,178,2025-07-01,11366.79,Credit,ATM,Completed,Travel
+1828,127,2025-07-18,3754.77,Debit,ATM,Completed,Travel
+1829,29,2025-07-12,921.93,Debit,ATM,Completed,Dining
+1830,190,2025-01-01,3477.16,Credit,Branch,Completed,Cash
+1831,216,2025-09-23,2520.52,Credit,Mobile App,Completed,Healthcare
+1832,158,2025-12-16,1918.74,Credit,POS,Completed,Transfer
+1833,128,2025-05-12,3138.37,Debit,Internet Banking,Completed,Dining
+1834,69,2025-04-05,2289.14,Credit,Mobile App,Failed,Education
+1835,21,2025-07-24,1778.98,Credit,ATM,Completed,Shopping
+1836,30,2025-02-06,1646.77,Debit,Branch,Completed,Education
+1837,60,2025-08-12,1259.6,Debit,POS,Completed,Travel
+1838,11,2025-08-09,1916.07,Debit,Mobile App,Completed,Dining
+1839,53,2025-02-24,1154.02,Credit,POS,Completed,Travel
+1840,17,2025-11-25,22010.07,Debit,POS,Completed,Shopping
+1841,131,2025-12-06,4562.9,Debit,UPI,Completed,Transfer
+1842,103,2025-06-02,4473.47,Credit,Internet Banking,Completed,Shopping
+1843,79,2025-03-10,4194.0,Debit,Internet Banking,Completed,Cash
+1844,123,2025-05-06,121992.3,Debit,Internet Banking,Completed,Shopping
+1845,199,2025-03-02,2999.18,Credit,POS,Completed,Education
+1846,208,2025-03-16,936.28,Credit,UPI,Completed,Shopping
+1847,137,2025-04-22,7255.36,Credit,Mobile App,Failed,Transfer
+1848,158,2025-08-17,809.45,Credit,POS,Completed,Travel
+1849,132,2025-12-24,1035.85,Debit,Mobile App,Completed,Travel
+1850,181,2025-01-02,358.82,Debit,ATM,Completed,Utilities
+1851,1,2025-06-14,3177.45,Credit,UPI,Completed,Groceries
+1852,91,2025-10-11,3461.11,Credit,Mobile App,Completed,Transfer
+1853,102,2025-10-01,3502.66,Credit,ATM,Completed,Cash
+1854,53,2025-09-14,123700.47,Debit,Internet Banking,Completed,Utilities
+1855,130,2025-06-22,22665.46,Debit,ATM,Completed,Education
+1856,117,2025-02-23,1276.77,Credit,ATM,Pending,Cash
+1857,203,2025-03-22,1045.57,Credit,Branch,Completed,Travel
+1858,119,2025-11-04,6266.01,Credit,Internet Banking,Completed,Transfer
+1859,127,2025-07-17,5868.98,Credit,Mobile App,Completed,Cash
+1860,134,2025-02-21,4288.69,Debit,Internet Banking,Completed,Utilities
+1861,118,2025-09-15,3489.23,Credit,UPI,Completed,Shopping
+1862,90,2025-12-05,19688.48,Debit,Internet Banking,Completed,Healthcare
+1863,179,2025-07-24,2692.64,Credit,Branch,Completed,Transfer
+1864,53,2025-06-07,3102.88,Debit,POS,Completed,Education
+1865,161,2025-11-22,94.71,Credit,Internet Banking,Completed,Shopping
+1866,161,2025-09-01,77881.42,Debit,UPI,Completed,Education
+1867,125,2025-01-12,2834.06,Debit,UPI,Completed,Healthcare
+1868,176,2025-11-13,59474.95,Debit,Mobile App,Completed,Education
+1869,119,2025-05-05,1480.43,Credit,Internet Banking,Completed,Shopping
+1870,199,2025-10-27,10304.42,Debit,Mobile App,Completed,Healthcare
+1871,44,2025-03-02,4186.69,Debit,Internet Banking,Completed,Shopping
+1872,142,2025-11-05,4513.57,Debit,UPI,Completed,Utilities
+1873,198,2025-04-24,52.7,Credit,Branch,Completed,Transfer
+1874,79,2025-12-08,16021.3,Credit,UPI,Completed,Healthcare
+1875,107,2025-05-02,122.12,Credit,ATM,Completed,Groceries
+1876,174,2025-06-26,3615.01,Debit,POS,Completed,Dining
+1877,5,2025-07-03,1967.64,Debit,Internet Banking,Completed,Transfer
+1878,146,2025-01-27,2538.14,Debit,ATM,Completed,Education
+1879,165,2025-01-18,204.59,Credit,ATM,Completed,Shopping
+1880,76,2025-06-05,10041.3,Debit,POS,Completed,Healthcare
+1881,109,2025-10-14,4516.82,Debit,ATM,Failed,Travel
+1882,30,2025-06-15,4555.3,Debit,ATM,Completed,Travel
+1883,219,2025-04-03,5158.29,Debit,Internet Banking,Completed,Groceries
+1884,67,2025-09-13,1571.15,Debit,UPI,Completed,Dining
+1885,154,2025-08-12,1664.98,Credit,Internet Banking,Completed,Utilities
+1886,36,2025-05-28,11953.96,Credit,Mobile App,Completed,Dining
+1887,101,2025-03-07,3309.14,Debit,ATM,Completed,Travel
+1888,163,2025-08-26,2498.53,Debit,UPI,Completed,Healthcare
+1889,183,2025-12-12,1640.08,Debit,ATM,Completed,Healthcare
+1890,26,2025-07-27,622.5,Credit,Branch,Completed,Groceries
+1891,136,2025-11-23,283.46,Debit,ATM,Completed,Healthcare
+1892,164,2025-04-20,1815.28,Debit,Mobile App,Completed,Transfer
+1893,31,2025-07-02,2923.88,Credit,Mobile App,Completed,Healthcare
+1894,60,2025-09-08,2577.2,Credit,POS,Completed,Dining
+1895,62,2025-11-26,17017.51,Credit,UPI,Completed,Utilities
+1896,91,2025-03-31,14504.36,Debit,POS,Completed,Utilities
+1897,81,2025-04-03,18830.19,Debit,POS,Completed,Dining
+1898,124,2025-09-20,297.51,Credit,Branch,Completed,Shopping
+1899,98,2025-09-12,14583.82,Debit,UPI,Completed,Utilities
+1900,80,2025-04-25,1089.01,Debit,Branch,Completed,Healthcare
+1901,14,2025-11-09,2958.33,Debit,Internet Banking,Completed,Dining
+1902,148,2025-01-09,9679.05,Credit,UPI,Completed,Education
+1903,170,2025-09-25,1488.02,Debit,UPI,Completed,Transfer
+1904,150,2025-07-09,16220.8,Debit,POS,Completed,Healthcare
+1905,194,2025-09-24,675.77,Credit,Internet Banking,Completed,Transfer
+1906,188,2025-10-03,22943.88,Debit,UPI,Completed,Cash
+1907,49,2025-11-24,3061.76,Debit,Branch,Failed,Healthcare
+1908,208,2025-02-20,3960.04,Debit,UPI,Completed,Utilities
+1909,22,2025-04-04,3644.29,Credit,Mobile App,Completed,Dining
+1910,157,2025-09-09,4179.75,Credit,POS,Completed,Travel
+1911,214,2025-02-23,2254.21,Debit,UPI,Completed,Dining
+1912,57,2025-07-11,492.68,Debit,POS,Completed,Groceries
+1913,197,2025-12-09,7530.73,Credit,UPI,Completed,Utilities
+1914,3,2025-05-08,131603.91,Debit,Branch,Completed,Utilities
+1915,63,2025-08-07,6181.42,Credit,Mobile App,Completed,Shopping
+1916,84,2025-02-01,4402.63,Debit,POS,Completed,Cash
+1917,128,2025-04-16,1926.62,Debit,UPI,Completed,Dining
+1918,54,2025-06-30,1247.87,Debit,Mobile App,Completed,Healthcare
+1919,163,2025-05-30,9926.21,Credit,UPI,Completed,Transfer
+1920,146,2025-04-06,1817.49,Credit,POS,Completed,Travel
+1921,215,2025-09-18,4559.52,Debit,POS,Completed,Education
+1922,105,2025-01-03,1748.42,Debit,Mobile App,Completed,Education
+1923,20,2025-01-18,112070.98,Credit,Branch,Completed,Cash
+1924,210,2025-11-22,58200.12,Credit,ATM,Pending,Cash
+1925,140,2025-01-01,720.08,Debit,ATM,Completed,Cash
+1926,27,2025-05-15,3187.11,Debit,ATM,Completed,Groceries
+1927,148,2025-07-30,2896.91,Credit,UPI,Completed,Travel
+1928,45,2025-09-16,2706.08,Debit,Branch,Completed,Utilities
+1929,181,2025-05-02,20338.38,Debit,Mobile App,Completed,Transfer
+1930,69,2025-04-11,125755.51,Credit,Internet Banking,Reversed,Shopping
+1931,199,2025-01-18,23942.22,Debit,ATM,Completed,Cash
+1932,121,2025-08-15,12182.88,Debit,Internet Banking,Completed,Transfer
+1933,4,2025-05-09,516.75,Debit,ATM,Completed,Cash
+1934,212,2025-11-23,4373.07,Debit,ATM,Completed,Groceries
+1935,68,2025-02-04,8407.71,Debit,Internet Banking,Completed,Transfer
+1936,35,2025-01-04,10589.97,Debit,Mobile App,Completed,Dining
+1937,41,2025-05-19,1887.6,Debit,POS,Completed,Shopping
+1938,26,2025-11-21,59630.98,Debit,ATM,Completed,Education
+1939,66,2025-10-22,71649.29,Credit,ATM,Completed,Shopping
+1940,4,2025-05-16,4170.29,Credit,Mobile App,Completed,Dining
+1941,79,2025-07-15,2652.91,Debit,Internet Banking,Completed,Travel
+1942,15,2025-03-19,5635.95,Debit,POS,Completed,Travel
+1943,18,2025-10-20,1833.94,Debit,UPI,Completed,Healthcare
+1944,8,2025-01-31,9867.9,Credit,Internet Banking,Pending,Dining
+1945,158,2025-08-25,492.9,Credit,ATM,Completed,Cash
+1946,209,2025-07-14,2853.54,Credit,ATM,Completed,Utilities
+1947,7,2025-05-10,23440.99,Debit,Mobile App,Completed,Travel
+1948,141,2025-02-05,2396.11,Credit,ATM,Completed,Shopping
+1949,76,2025-03-09,959.15,Credit,UPI,Completed,Shopping
+1950,194,2025-02-12,19651.37,Debit,POS,Completed,Transfer
+1951,205,2025-08-31,4422.34,Debit,Branch,Completed,Utilities
+1952,58,2025-03-08,6578.06,Credit,POS,Completed,Travel
+1953,70,2025-06-26,4144.45,Credit,Mobile App,Completed,Utilities
+1954,82,2025-10-02,2928.14,Debit,POS,Completed,Cash
+1955,106,2025-05-11,134851.02,Credit,ATM,Completed,Transfer
+1956,98,2025-01-31,4543.88,Credit,Internet Banking,Completed,Cash
+1957,23,2025-10-17,5650.58,Debit,Branch,Completed,Groceries
+1958,13,2025-07-26,19521.99,Credit,Internet Banking,Completed,Travel
+1959,214,2025-04-12,3937.84,Debit,Mobile App,Completed,Cash
+1960,41,2025-03-02,1158.81,Credit,ATM,Completed,Utilities
+1961,43,2025-04-13,3730.23,Debit,Mobile App,Completed,Dining
+1962,195,2025-04-22,59.79,Debit,Internet Banking,Completed,Dining
+1963,152,2025-02-26,5067.17,Credit,Mobile App,Completed,Shopping
+1964,31,2025-07-27,5462.85,Credit,ATM,Completed,Travel
+1965,176,2025-09-11,1047.63,Debit,POS,Failed,Groceries
+1966,100,2025-01-05,62525.2,Debit,Internet Banking,Failed,Shopping
+1967,100,2025-05-06,5461.15,Debit,POS,Completed,Dining
+1968,64,2025-08-11,129379.08,Credit,UPI,Completed,Utilities
+1969,82,2025-02-17,3327.66,Debit,ATM,Completed,Groceries
+1970,49,2025-11-22,1335.88,Credit,Branch,Completed,Education
+1971,106,2025-01-16,2260.06,Debit,Internet Banking,Completed,Education
+1972,114,2025-03-17,3594.76,Credit,ATM,Completed,Cash
+1973,24,2025-12-19,2559.63,Debit,Mobile App,Completed,Travel
+1974,101,2025-03-14,216.72,Credit,Internet Banking,Completed,Dining
+1975,203,2025-07-03,63946.63,Debit,Mobile App,Completed,Groceries
+1976,76,2025-02-14,121448.69,Debit,Mobile App,Completed,Cash
+1977,30,2025-12-18,2122.43,Credit,Branch,Completed,Education
+1978,30,2025-01-17,351.12,Credit,Mobile App,Completed,Travel
+1979,144,2025-05-05,14165.62,Credit,ATM,Completed,Travel
+1980,146,2025-11-18,2164.72,Debit,Mobile App,Completed,Transfer
+1981,189,2025-08-08,11502.05,Debit,Branch,Completed,Education
+1982,186,2025-01-24,4854.69,Credit,POS,Completed,Shopping
+1983,99,2025-01-13,580.0,Credit,POS,Completed,Shopping
+1984,126,2025-03-18,1334.39,Credit,ATM,Reversed,Healthcare
+1985,194,2025-02-21,82355.91,Credit,UPI,Completed,Education
+1986,217,2025-08-03,3532.78,Credit,ATM,Completed,Shopping
+1987,20,2025-11-15,4402.64,Debit,UPI,Completed,Shopping
+1988,122,2025-08-28,4157.85,Credit,Internet Banking,Completed,Utilities
+1989,207,2025-09-19,149177.72,Debit,Branch,Completed,Dining
+1990,79,2025-01-28,1570.83,Credit,ATM,Completed,Utilities
+1991,87,2025-11-23,2192.48,Credit,Mobile App,Completed,Education
+1992,169,2025-12-20,10661.1,Debit,ATM,Completed,Cash
+1993,141,2025-02-11,2679.42,Credit,Branch,Completed,Shopping
+1994,129,2025-09-15,4041.14,Credit,Internet Banking,Completed,Education
+1995,67,2025-01-10,1769.22,Debit,Branch,Completed,Dining
+1996,169,2025-05-23,457.2,Credit,Branch,Completed,Cash
+1997,109,2025-01-03,9794.35,Debit,Mobile App,Completed,Groceries
+1998,52,2025-03-25,359.29,Credit,Mobile App,Completed,Utilities
+1999,207,2025-05-22,5264.13,Credit,Mobile App,Completed,Transfer
+2000,192,2025-02-20,2968.99,Credit,POS,Completed,Education
